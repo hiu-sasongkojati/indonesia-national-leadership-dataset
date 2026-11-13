@@ -1,0 +1,22 @@
+person|election_year|round|position|running_mate|vote_share_pct|outcome|src|source_id|confidence
+Susilo Bambang Yudhoyono|2004|1|president|Jusuf Kalla|33.74|advanced|mem|S004|high
+Megawati Soekarnoputri|2004|1|president|Hasyim Muzadi|26.61|advanced|mem|S004|high
+Wiranto|2004|1|president|Salahuddin Wahid|22.15|lost|mem|S004|high
+Agum Gumelar|2004|1|vice_president|Hamzah Haz|3.01|lost|mem|S004|high
+Susilo Bambang Yudhoyono|2004|2|president|Jusuf Kalla|60.62|won|mem|S004|high
+Megawati Soekarnoputri|2004|2|president|Hasyim Muzadi|39.38|lost|mem|S004|high
+Susilo Bambang Yudhoyono|2009|1|president|Boediono|60.80|won|mem|S004|high
+Megawati Soekarnoputri|2009|1|president|Prabowo Subianto|26.79|lost|mem|S004|high
+Prabowo Subianto|2009|1|vice_president|Megawati Soekarnoputri|26.79|lost|mem|S004|high
+Wiranto|2009|1|vice_president|Jusuf Kalla|12.41|lost|mem|S004|high
+Joko Widodo|2014|1|president|Jusuf Kalla|53.15|won|mem|S004|high
+Prabowo Subianto|2014|1|president|Hatta Rajasa|46.85|lost|mem|S004|high
+Hatta Rajasa|2014|1|vice_president|Prabowo Subianto|46.85|lost|mem|S004|high
+Joko Widodo|2019|1|president|Ma'ruf Amin|55.50|won|mem|S004|high
+Ma'ruf Amin|2019|1|vice_president|Joko Widodo|55.50|won|mem|S004|high
+Prabowo Subianto|2019|1|president|Sandiaga Uno|44.50|lost|mem|S004|high
+Prabowo Subianto|2024|1|president|Gibran Rakabuming Raka|58.59|won|mem|S004|high
+Anies Baswedan|2024|1|president|Muhaimin Iskandar|24.95|lost|mem|S004|high
+Muhaimin Iskandar|2024|1|vice_president|Anies Baswedan|24.95|lost|mem|S004|high
+Ganjar Pranowo|2024|1|president|Mahfud MD|16.47|lost|mem|S004|high
+Mahfud MD|2024|1|vice_president|Ganjar Pranowo|16.47|lost|mem|S004|high

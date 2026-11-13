@@ -1,0 +1,92 @@
+org_id|name|name_long|domain|org_type|parent_org_id|stream|snapshot_name|note
+exec_kemenko_polkam|Kemenko Polkam (cluster)|Coordinating Ministry for Political and Security Affairs and the ministries and agencies under it|executive|cabinet_cluster|||Kemenko Polkam (cluster)|Cluster membership under Perpres 139/2024; the individual ministry is not yet coded
+exec_kemenko_hukum|Kemenko Hukum HAM Imipas (cluster)|Coordinating Ministry for Law, Human Rights, Immigration and Corrections cluster|executive|cabinet_cluster|||Kemenko Hukum HAM Imipas (cluster)|
+exec_kemenko_perekonomian|Kemenko Perekonomian (cluster)|Coordinating Ministry for Economic Affairs cluster|executive|cabinet_cluster|||Kemenko Perekonomian (cluster)|
+exec_kemenko_pmk|Kemenko PMK (cluster)|Coordinating Ministry for Human Development and Culture cluster|executive|cabinet_cluster|||Kemenko PMK (cluster)|
+exec_kemenko_pm|Kemenko Pemberdayaan Masyarakat (cluster)|Coordinating Ministry for Community Empowerment cluster|executive|cabinet_cluster|||Kemenko Pemberdayaan Masyarakat (cluster)|
+exec_kemenko_infrastruktur|Kemenko Infrastruktur (cluster)|Coordinating Ministry for Infrastructure and Regional Development cluster|executive|cabinet_cluster|||Kemenko Infrastruktur (cluster)|
+exec_kemenko_pangan|Kemenko Pangan (cluster)|Coordinating Ministry for Food Affairs cluster|executive|cabinet_cluster|||Kemenko Pangan (cluster)|
+exec_kemenko_hilirisasi|Kemenko Hilirisasi dan Transisi Energi (cluster, announced)|Coordinating Ministry for Downstreaming and Energy Transition cluster|executive|cabinet_cluster|||Kemenko Hilirisasi dan Transisi Energi (cluster, announced)|Follows the minister's statements because the Perpres had not been issued on 12 Nov 2026
+exec_kantor_kepresidenan|Kantor Kepresidenan|Presidential office (Setneg, Setkab, KSP, Bakom)|executive|presidential_office|||Kantor Kepresidenan (Setneg, Setkab, KSP, Bakom)|
+exec_dpn|Dewan Pertahanan Nasional|National Defence Council, permanent members|executive|state_council|||Dewan Pertahanan Nasional (anggota tetap)|
+soe_danantara_dewas|Danantara - Dewan Pengawas|Danantara supervisory board|state_enterprise|sovereign_fund_board|soe_danantara||Danantara - Dewan Pengawas|
+soe_danantara_bp|Danantara - Badan Pelaksana dan Dewan Pengarah|Danantara executive board and steering board|state_enterprise|sovereign_fund_board|soe_danantara||Danantara - Badan Pelaksana dan Dewan Pengarah|
+soe_danantara|Danantara|Badan Pengelola Investasi Daya Anagata Nusantara|state_enterprise|sovereign_fund||||Parent record
+leg_mpr_pimpinan|Pimpinan MPR|Leadership of the People's Consultative Assembly|legislature|chamber_leadership|||Pimpinan MPR|
+leg_dpr_pimpinan|Pimpinan DPR|Leadership of the House of Representatives|legislature|chamber_leadership|||Pimpinan DPR|
+leg_dpd_pimpinan|Pimpinan DPD|Leadership of the Regional Representative Council|legislature|chamber_leadership|||Pimpinan DPD|
+sec_tni|Pimpinan TNI|TNI leadership (Panglima, Wakil Panglima, chiefs of staff)|security|armed_forces_leadership|||Pimpinan TNI (Panglima, Wakil Panglima, kepala staf)|
+sec_polri|Pimpinan Polri|National Police leadership (Kapolri, Wakapolri)|security|police_leadership|||Pimpinan Polri (Kapolri, Wakapolri)|
+sec_bin|Pimpinan BIN|State Intelligence Agency leadership|security|intelligence_leadership|||Pimpinan BIN|
+sec_kemhan|Pimpinan Kementerian Pertahanan|Defence ministry leadership|security|defence_ministry_leadership|||Pimpinan Kementerian Pertahanan|
+adv_wantimpres|Wantimpres|Dewan Pertimbangan Presiden|advisory|presidential_advisory_council|||Wantimpres|
+adv_den|Dewan Ekonomi Nasional|National Economic Council|advisory|economic_council|||Dewan Ekonomi Nasional|
+adv_pkp|Penasihat Khusus Presiden|Special advisers to the president|advisory|special_adviser|||Penasihat Khusus Presiden|
+camp_tkn2024_harian|TKN Prabowo-Gibran 2024 - Pimpinan harian|2024 Prabowo-Gibran national campaign team, daily leadership|campaign|presidential_campaign_team|camp_tkn2024||TKN Prabowo-Gibran 2024 - Pimpinan harian|
+camp_tkn2024_pengarah|TKN Prabowo-Gibran 2024 - Dewan Pengarah (pimpinan)|2024 Prabowo-Gibran national campaign team, steering board leadership|campaign|presidential_campaign_team|camp_tkn2024||TKN Prabowo-Gibran 2024 - Dewan Pengarah (pimpinan)|
+camp_tkn2024|TKN Prabowo-Gibran 2024|Tim Kampanye Nasional Prabowo-Gibran|campaign|presidential_campaign_team||||Parent record
+party_gerindra|Gerindra|Partai Gerakan Indonesia Raya|party|party||nationalist||
+party_golkar|Golkar|Partai Golongan Karya|party|party||nationalist||
+party_pdip|PDIP|Partai Demokrasi Indonesia Perjuangan|party|party||nationalist||
+party_demokrat|Demokrat|Partai Demokrat|party|party||nationalist||
+party_pkb|PKB|Partai Kebangkitan Bangsa|party|party||Islam, traditionalist base||
+party_pks|PKS|Partai Keadilan Sejahtera|party|party||Islamist||
+party_nasdem|NasDem|Partai NasDem|party|party||nationalist||
+party_pan|PAN|Partai Amanat Nasional|party|party||Islam, modernist base||
+party_psi|PSI|Partai Solidaritas Indonesia|party|party||nationalist||
+party_pbb|PBB|Partai Bulan Bintang|party|party||Islamist||
+party_ppp|PPP|Partai Persatuan Pembangunan|party|party||Islamist||
+party_hanura|Hanura|Partai Hati Nurani Rakyat|party|party||nationalist||
+party_gelora|Gelora|Partai Gelombang Rakyat Indonesia|party|party||||
+party_prima|PRIMA|Partai Rakyat Adil Makmur|party|party||||
+party_garuda|Garuda|Partai Garda Perubahan Indonesia|party|party||||Wikidata label: Partai Gerakan Perubahan Indonesia
+party_buruh|Partai Buruh|Partai Buruh|party|party||labour||
+party_pbr|PBR|Partai Bintang Reformasi|party|party||||Defunct
+party_pdk|PDK|Partai Demokrasi Kebangsaan|party|party||||Defunct
+party_pkpi|PKPI|Partai Keadilan dan Persatuan Indonesia|party|party||||
+party_pib|PIB|Partai Perhimpunan Indonesia Baru|party|party||||Defunct
+party_berkarya|Berkarya|Partai Berkarya|party|party||||
+party_merdeka|Merdeka|Partai Merdeka|party|party||||Defunct
+party_garda|Garda|Partai Garda Republik Indonesia|party|party||||
+party_pdi|PDI|Partai Demokrasi Indonesia|party|party||nationalist||New Order era party
+party_psi_sarikat|PSI-Sarikat|Partai Sarikat Indonesia|party|party||||Defunct
+party_nu|Partai NU|Partai Nahdlatul Ulama (1952-1973)|party|party||Islam, traditionalist||Fused into PPP in 1973
+party_gerindra_dpp|DPP Gerindra|Gerindra central board|party|party_central_board|party_gerindra||DPP Gerindra|
+party_golkar_dpp|DPP Golkar|Golkar central board|party|party_central_board|party_golkar||DPP Golkar|
+party_pdip_dpp|DPP PDIP|PDIP central board|party|party_central_board|party_pdip||DPP PDIP|No wakil ketua umum; holds ketua umum, sekjen, bendahara umum and the first ten ketua DPP announced in August 2025
+party_demokrat_dpp|DPP Demokrat|Demokrat central board|party|party_central_board|party_demokrat||DPP Demokrat|
+party_pkb_dpp|DPP PKB|PKB central board|party|party_central_board|party_pkb||DPP PKB|
+party_pks_dpp|DPP PKS|PKS central board|party|party_central_board|party_pks||DPP PKS|
+party_nasdem_dpp|DPP NasDem|NasDem central board|party|party_central_board|party_nasdem||DPP NasDem|
+party_pan_dpp|DPP PAN|PAN central board|party|party_central_board|party_pan||DPP PAN|
+party_psi_dpp|DPP PSI|PSI central board|party|party_central_board|party_psi||DPP PSI|
+ormas_nu|NU (PBNU)|Nahdlatul Ulama, central board|mass_organization|religious||Islam, traditionalist||
+ormas_nu_ansor|GP Ansor|Gerakan Pemuda Ansor|mass_organization|religious_youth_wing|ormas_nu|Islam, traditionalist||
+ormas_nu_muslimat|Muslimat NU|Muslimat Nahdlatul Ulama|mass_organization|religious_women_wing|ormas_nu|Islam, traditionalist||
+ormas_nu_fatayat|Fatayat NU|Fatayat Nahdlatul Ulama|mass_organization|religious_women_wing|ormas_nu|Islam, traditionalist||
+ormas_nu_isnu|ISNU|Ikatan Sarjana Nahdlatul Ulama|mass_organization|religious_professional_wing|ormas_nu|Islam, traditionalist||
+ormas_muhammadiyah|Muhammadiyah (PP)|Muhammadiyah, central board|mass_organization|religious||Islam, modernist||
+ormas_muhammadiyah_ipm|IPM|Ikatan Pelajar Muhammadiyah|mass_organization|religious_youth_wing|ormas_muhammadiyah|Islam, modernist||
+ormas_mui|MUI|Majelis Ulama Indonesia|mass_organization|religious_council||Islam||
+ormas_pgi|PGI|Persekutuan Gereja-gereja di Indonesia|mass_organization|religious_council||Protestant||
+ormas_matakin|MATAKIN|Majelis Tinggi Agama Khonghucu Indonesia|mass_organization|religious_council||Confucian||
+ormas_permabudhi|Permabudhi|Persatuan Umat Buddha Indonesia|mass_organization|religious_council||Buddhist||
+ormas_istiqlal|Masjid Istiqlal|Badan Pengelola Masjid Istiqlal|mass_organization|religious_institution||Islam||
+ormas_hmi|HMI|Himpunan Mahasiswa Islam|mass_organization|student||Islam, modernist leaning||Cipayung group
+ormas_kahmi|KAHMI|Korps Alumni HMI|mass_organization|student_alumni|ormas_hmi|Islam, modernist leaning||
+ormas_pmii|PMII|Pergerakan Mahasiswa Islam Indonesia|mass_organization|student||Islam, traditionalist||Cipayung group; historically tied to NU
+ormas_knpi|KNPI|Komite Nasional Pemuda Indonesia|mass_organization|youth||||
+ormas_pp|Pemuda Pancasila|Pemuda Pancasila|mass_organization|youth||nationalist||
+ormas_kspi|KSPI|Konfederasi Serikat Pekerja Indonesia|mass_organization|labour||labour||
+ormas_kspsi|KSPSI|Konfederasi Serikat Pekerja Seluruh Indonesia|mass_organization|labour||labour||More than one leadership claims the name
+ormas_pepabri|Pepabri|Persatuan Purnawirawan dan Warakawuri TNI dan Polri|mass_organization|veterans||||
+ormas_pssi|PSSI|Persatuan Sepak Bola Seluruh Indonesia|mass_organization|sports||||
+ormas_imi|IMI|Ikatan Motor Indonesia|mass_organization|sports||||
+biz_kadin|KADIN|Kamar Dagang dan Industri Indonesia|business_association|chamber_of_commerce||||
+biz_hipmi|HIPMI|Himpunan Pengusaha Muda Indonesia|business_association|young_entrepreneurs||||
+reg_jatim|Pemprov Jawa Timur|Government of East Java province|regional_government|province||||
+reg_dki|Pemprov DKI Jakarta|Government of Jakarta|regional_government|province||||
+reg_diy|Pemda DIY|Government of the Special Region of Yogyakarta|regional_government|province||||
+reg_jabar|Pemprov Jawa Barat|Government of West Java province|regional_government|province||||
+exec_cabinet_jokowi|Kabinet Kerja and Kabinet Indonesia Maju|Cabinets of President Joko Widodo, 2014-2024|executive|past_cabinet||||
+jud_mk|Mahkamah Konstitusi|Constitutional Court|judiciary|constitutional_court||||

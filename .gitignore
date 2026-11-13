@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.ipynb_checkpoints/
+.venv/
+data/external/raw/
+*.tmp
+private/

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Indonesia National Leadership Dataset"
+type: dataset
+version: 0.2.0
+date-released: 2026-11-13
+license: CC-BY-4.0
+authors:
+  - family-names: Sasongkojati
+    given-names: Mohamad Hiu Dilangit Ramadhan
+abstract: "Relational dataset of Indonesian national elites, their dated memberships in state bodies, parties, mass organisations, business associations and companies, and documented ties among them, coded as of 12 November 2026."
+keywords:
+  - Indonesia
+  - political elites
+  - network data
+  - presidential election 2029

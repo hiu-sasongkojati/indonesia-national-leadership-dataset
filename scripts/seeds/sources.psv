@@ -1,0 +1,5 @@
+source_id|type|title|publisher|url|date_published|date_retrieved|note
+S001|snapshot|Snapshot of the dataset as of 12 November 2026 (nodes.csv, affiliations.csv, lineage.csv in data/snapshot)|Mohamad Hiu Dilangit Ramadhan Sasongkojati||2026-11-12|2026-11-12|Row-level src codes reg, news and mem are kept
+S002|news|Raja Juli Antoni Anak Siapa? Putuskan Mundur dari PSI|Suara.com|https://suara.com/news/2026/11/10/065658/raja-juli-antoni-anak-siapa-putuskan-mundur-dari-psi|2026-11-10|2026-11-12|
+S003|wikidata|Wikidata entity statements (P21, P569, P19, P102)|Wikimedia Foundation|https://www.wikidata.org/|2026-11-12|2026-11-12|Matched by name search restricted to living humans with Indonesian citizenship, then reviewed by hand; licence CC0
+S004|background|Background knowledge to mid 2026, not checked against a document|coder||2026-11-12||Same standing as the snapshot code mem; every row needs a documentary source before publication

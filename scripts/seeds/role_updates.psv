@@ -1,0 +1,27 @@
+person|org_id|role|role_level|start_date|end_date|status_asof|src|source_id|confidence|note
+Megawati Soekarnoputri|party_pdip_dpp|Ketua Umum|head|1999|||mem|S004|high|
+Prabowo Subianto|party_gerindra_dpp|Ketua Umum|head|2014|||mem|S004|high|
+Bahlil Lahadalia|party_golkar_dpp|Ketua Umum|head|2024-08|||mem|S004|high|
+Agus Harimurti Yudhoyono|party_demokrat_dpp|Ketua Umum|head|2020-03|||mem|S004|high|
+Susilo Bambang Yudhoyono|party_demokrat_dpp|Ketua Majelis Tinggi|council|2020|||mem|S004|high|
+Muhaimin Iskandar|party_pkb_dpp|Ketua Umum|head|2005|||mem|S004|high|
+Zulkifli Hasan|party_pan_dpp|Ketua Umum|head|2015|||mem|S004|high|
+Surya Paloh|party_nasdem_dpp|Ketua Umum|head|2013|||mem|S004|high|
+Kaesang Pangarep|party_psi_dpp|Ketua Umum|head|2023-09|||mem|S004|high|
+Al Muzzammil Yusuf|party_pks_dpp|Presiden PKS|head|2025|||mem|S004|medium|
+Hasto Kristiyanto|party_pdip_dpp|Sekretaris Jenderal|executive_board|2015|||mem|S004|medium|
+Sugiono|party_gerindra_dpp|Sekretaris Jenderal|executive_board|2025|||mem|S004|medium|
+Sufmi Dasco Ahmad|party_gerindra_dpp|Ketua Harian|executive_board||||mem|S004|medium|
+M. Sarmuji|party_golkar_dpp|Sekretaris Jenderal|executive_board|2024-08|||mem|S004|high|
+Herman Khaeron|party_demokrat_dpp|Sekretaris Jenderal|executive_board|2025|||mem|S004|medium|
+Hasanuddin Wahid|party_pkb_dpp|Sekretaris Jenderal|executive_board|2019|||mem|S004|medium|
+Eko Hendro Purnomo|party_pan_dpp|Sekretaris Jenderal|executive_board|2024|||mem|S004|medium|
+Hermawi Taslim|party_nasdem_dpp|Sekretaris Jenderal|executive_board|2024|||mem|S004|medium|
+Muhammad Kholid|party_pks_dpp|Sekretaris Jenderal|executive_board|2025|||mem|S004|medium|
+Ahmad Ali|party_psi_dpp|Ketua Harian|executive_board|2025|||mem|S004|medium|
+Raja Juli Antoni|party_psi_dpp|Sekretaris Jenderal|executive_board||2026-11-09|past|news|S002|high|Resigned on 9 November 2026, three days before the snapshot date; the snapshot row is kept and marked as ended
+Ahmad Muzani|leg_mpr_pimpinan|Ketua MPR|head|2024-10|||mem|S004|high|
+Puan Maharani|leg_dpr_pimpinan|Ketua DPR|head|2019-10|||mem|S004|high|
+Sultan B. Najamudin|leg_dpd_pimpinan|Ketua DPD|head|2024-10|||mem|S004|high|
+Rosan Roeslani|camp_tkn2024_harian|Ketua TKN|head||||mem|S004|high|
+Nusron Wahid|camp_tkn2024_harian|Sekretaris TKN|executive_board||||mem|S004|high|

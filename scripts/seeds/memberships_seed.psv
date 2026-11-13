@@ -1,0 +1,61 @@
+person|org_id|role|role_level|basis|start_date|end_date|status_asof|src|source_id|confidence|note
+Airlangga Hartarto|party_golkar|Ketua Umum|head|elected|2017|2024|past|mem|S004|high|Resigned as chair in August 2024
+Lodewijk F. Paulus|party_golkar|Sekretaris Jenderal|executive_board|appointed|2018|2024|past|mem|S004|high|
+Maruarar Sirait|party_pdip|member|member|cadre_or_member||2024|past|mem|S004|high|Left PDIP in January 2024, later joined Gerindra
+Dedi Mulyadi|party_golkar|member|member|cadre_or_member||2023|past|mem|S004|high|Moved to Gerindra in 2023
+Ahmad Ali|party_nasdem|Wakil Ketua Umum|executive_board|appointed||2025|past|mem|S004|medium|Moved to PSI in 2025
+Said Iqbal|party_buruh|Presiden Partai Buruh|head|elected|2021||current|mem|S004|high|
+Anis Matta|party_gelora|Ketua Umum|head|founder|2019||current|mem|S004|high|
+Anis Matta|party_pks|Presiden PKS|head|elected|2013|2015|past|mem|S004|high|
+Mahfudz Siddiq|party_gelora|Sekretaris Jenderal|executive_board|founder|2019||current|mem|S004|high|
+Agus Jabo Priyono|party_prima|Ketua Umum|head|founder|2021||current|mem|S004|high|
+Ahmad Ridha Sabana|party_garuda|Ketua Umum|head|elected|||current|mem|S004|high|
+Wiranto|party_hanura|Ketua Umum|head|founder|2006|2016|past|mem|S004|high|
+Raja Juli Antoni|party_pdip|member|member|cadre_or_member|||past|news|S002|high|Joined PDIP before co-founding PSI in 2014
+Raja Juli Antoni|party_psi|co-founder|member|founder|2014|2026-11-09|past|news|S002|high|Gave up all party activity on 9 November 2026
+Raja Juli Antoni|ormas_muhammadiyah_ipm|Ketua Umum PP IPM|head|elected|2000|2002|past|news|S002|high|
+Yahya Cholil Staquf|ormas_nu|Ketua Umum PBNU|head|elected|2021|||mem|S004|medium|Leadership dispute inside PBNU in late 2025; current status needs checking
+Said Aqil Siradj|ormas_nu|Ketua Umum PBNU|head|elected|2010|2021|past|mem|S004|high|
+Ma'ruf Amin|ormas_nu|Rais Aam PBNU|head|elected|2015|2018|past|mem|S004|high|
+Ma'ruf Amin|ormas_mui|Ketua Umum|head|elected|2015|2020|past|mem|S004|high|
+Anwar Iskandar|ormas_mui|Ketua Umum|head|elected|2023|||mem|S004|medium|
+Saifullah Yusuf|ormas_nu_ansor|Ketua Umum|head|elected|2000|2010|past|mem|S004|high|
+Saifullah Yusuf|ormas_nu|Sekretaris Jenderal PBNU|executive_board|appointed|2022|||mem|S004|medium|Current status needs checking
+Nusron Wahid|ormas_nu_ansor|Ketua Umum|head|elected|2011|2015|past|mem|S004|high|
+Nusron Wahid|ormas_pmii|Ketua Umum PB PMII|head|elected|2000|2003|past|mem|S004|medium|
+Muhaimin Iskandar|ormas_pmii|Ketua Umum PB PMII|head|elected|1994|1997|past|mem|S004|high|
+Ali Masykur Musa|ormas_pmii|Ketua Umum PB PMII|head|elected|1991|1994|past|mem|S004|medium|
+Ali Masykur Musa|ormas_nu_isnu|Ketua Umum PP ISNU|head|elected|2012|||mem|S004|medium|
+Khofifah Indar Parawansa|ormas_nu_muslimat|Ketua Umum PP Muslimat NU|head|elected|2000||current|mem|S004|high|
+Ida Fauziyah|ormas_nu_fatayat|Ketua Umum PP Fatayat NU|head|elected|2010|2015|past|mem|S004|medium|
+Abdul Mu'ti|ormas_muhammadiyah|Sekretaris Umum PP Muhammadiyah|executive_board|elected|2015||current|mem|S004|high|
+Muhadjir Effendy|ormas_muhammadiyah|Ketua PP Muhammadiyah|executive_board|elected|2015||current|mem|S004|medium|
+Nasaruddin Umar|ormas_istiqlal|Imam Besar|head|appointed|2016||current|mem|S004|high|
+Jacky Manuputty|ormas_pgi|Ketua Umum|head|elected|2024||current|mem|S004|medium|
+Budi S. Tanuwibowo|ormas_matakin|Ketua Umum|head|elected||||mem|S004|medium|Periods in office need checking
+Philip K. Wijaya|ormas_permabudhi|Ketua Umum|head|elected||||mem|S004|medium|Periods in office need checking
+Arief Rosyid Hasan|ormas_hmi|Ketua Umum PB HMI|head|elected|2013|2015|past|mem|S004|high|
+Bahlil Lahadalia|ormas_hmi|Bendahara Umum PB HMI|executive_board|appointed|||past|mem|S004|medium|
+Anies Baswedan|ormas_hmi|member|member|cadre_or_member|||past|mem|S004|medium|Active in HMI as a student in Yogyakarta
+Mahfud MD|ormas_kahmi|Ketua Presidium Majelis Nasional KAHMI|head|elected|2012|2017|past|mem|S004|medium|
+Bahlil Lahadalia|biz_hipmi|Ketua Umum BPP HIPMI|head|elected|2015|2019|past|mem|S004|high|
+Erwin Aksa|biz_hipmi|Ketua Umum BPP HIPMI|head|elected|2008|2011|past|mem|S004|high|
+Akbar Himawan Buchari|biz_hipmi|Ketua Umum BPP HIPMI|head|elected|2022|||mem|S004|medium|End of term needs checking
+Rosan Roeslani|biz_kadin|Ketua Umum|head|elected|2015|2021|past|mem|S004|high|
+Erick Thohir|ormas_pssi|Ketua Umum|head|elected|2023||current|mem|S004|high|
+Said Iqbal|ormas_kspi|Presiden KSPI|head|elected|2012||current|mem|S004|high|
+Jumhur Hidayat|ormas_kspsi|Ketua Umum|head|elected|2022|||mem|S004|medium|
+Agum Gumelar|ormas_pepabri|Ketua Umum|head|elected|2017|||mem|S004|medium|End of term needs checking
+Bambang Soesatyo|ormas_imi|Ketua Umum|head|elected|2021|||mem|S004|medium|
+Yorrys Raweyai|ormas_pp|senior leadership, post to be verified|executive_board|appointed||||mem|S004|medium|
+Khofifah Indar Parawansa|reg_jatim|Gubernur Jawa Timur|head|elected|2019-02|2024-02|past|mem|S004|high|First term
+Khofifah Indar Parawansa|reg_jatim|Gubernur Jawa Timur|head|elected|2025-02-20||current|mem|S004|high|Second term
+Khofifah Indar Parawansa|exec_cabinet_jokowi|Menteri Sosial|executive_board|appointed|2014-10|2018-01|past|mem|S004|high|
+Pramono Anung|reg_dki|Gubernur DKI Jakarta|head|elected|2025-02-20||current|mem|S004|high|
+Pramono Anung|exec_cabinet_jokowi|Sekretaris Kabinet|executive_board|appointed|2015-08|2024-10|past|mem|S004|high|
+Sultan Hamengku Buwono X|reg_diy|Gubernur Daerah Istimewa Yogyakarta|head|ex_officio|1998||current|mem|S004|high|Governor by virtue of the throne under Law 13/2012
+Dedi Mulyadi|reg_jabar|Gubernur Jawa Barat|head|elected|2025-02-20||current|mem|S004|high|
+Anies Baswedan|reg_dki|Gubernur DKI Jakarta|head|elected|2017-10|2022-10|past|mem|S004|high|
+Anies Baswedan|exec_cabinet_jokowi|Menteri Pendidikan dan Kebudayaan|executive_board|appointed|2014-10|2016-07|past|mem|S004|high|
+Mahfud MD|exec_cabinet_jokowi|Menteri Koordinator Politik, Hukum dan Keamanan|executive_board|appointed|2019-10|2024-02|past|mem|S004|high|
+Mahfud MD|jud_mk|Ketua Mahkamah Konstitusi|head|elected|2008|2013|past|mem|S004|high|
