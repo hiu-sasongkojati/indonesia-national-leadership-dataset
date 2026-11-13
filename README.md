@@ -1,8 +1,10 @@
 # Indonesia National Leadership Dataset
 
-A relational dataset of Indonesian national elites, their seats in state bodies, parties, mass organisations, business associations and companies, and the documented ties among them. It was built to map potential challengers and nominating coalitions for the 2029 presidential election.
+A relational dataset of Indonesian national elites, their institutional affiliations across state bodies, political parties, mass organisations, business associations and publicly listed companies, and documented interpersonal ties. Constructed to analyze potential challengers and nominating coalitions ahead of the 2029 presidential election.
 
-Version 0.2.0. The national bodies are coded as of 12 November 2026, and the governors of all 38 provinces, the organisation boards and the listed companies as of 13 November 2026. It covers 243 people, their seats in state bodies, provincial governments, party boards and other organisations, and 30 documented ties among them. Every affiliation is a dated, sourced membership sorted by domain.
+Coverage (as of 13 November 2026): 243 individuals and 30 documented interpersonal ties (kinship, principal–aide, and career linkages). National state bodies, governors of all 38 provinces, political party executive boards, mass and business organizations, and listed corporate boards. Every affiliation record is time-stamped, sourced, and sorted by institutional domain.
+
+Note: Data processing and network construction scripts in Python were originally developed with scripting assistance from Claude Sonnet 5.5.
 
 ## Layout
 
@@ -46,11 +48,11 @@ The snapshot of 12 November 2026 is the set of membership rows with `in_snapshot
 
 ## Reliability
 
-Every membership carries a source code. `reg`, `news` and `official` rest on a document, and `kemendagri` and `kpu2024` on government records. `idnfinancials` rows come from a market data site that republishes stock exchange filings, and most of them identify the person by name alone. `mem`, `snapshot` and `wikidata` rest on no document; 128 rows still carry `mem`. Read `docs/open-issues.md` before using the organisation and company rows in analysis.
+Every membership record includes a source code. `reg`, `news` and `official` rest on a document, and `kemendagri` and `kpu2024` on government records. `idnfinancials` rows originate from a financial data aggregator republishing Indonesia Stock Exchange (IDX) disclosures; most of them identify the person by name alone without secondary biographical identifiers. `mem`, `snapshot` and `wikidata` lack primary documented verification, with 128 rows retaining `mem`. Read `docs/open-issues.md` before using the organisation and company rows in analysis.
 
 ## Design
 
-The structure follows the Popolo model of persons, organisations and memberships, the background variables of Paths to Power and the LPEM study of local leaders, and Mietzner's account of the actors Indonesian presidents bring into their coalitions. `docs/codebook.md` defines every column.
+The relational schema follows the Popolo open civic data specification (modeling persons, organizations, and memberships). Individual background attributes draw on the Paths to Power dataset and the LPEM-FEB UI study of Indonesian local leaders, while institutional domain classifications follow Marcus Mietzner's framework of the coalition actors Indonesian presidents incorporate into governing alliances. Complete column definitions are documented in `docs/codebook.md`.
 
 ## Data sources and attribution
 
