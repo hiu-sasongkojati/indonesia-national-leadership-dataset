@@ -1,244 +1,244 @@
-"person_id","name","gender","birth_date","birth_place","partisan_status","party_snapshot","security_service","security_status","security_rank_band","wikidata_qid","bio_src","religion","ethnicity","ethnicity_src","highest_degree","highest_degree_src","marital_status","spouse_name","n_children","legal_status","family_legal_src","degree_field","studied_abroad","pre_political_occupation","political_family"
-"P0001","Abcandra Akbar Supratman","M","1998","Palu","not_coded","","","","","Q123726148","wikidata","","","","","","","","","","","","","",""
-"P0002","Abdul Mu'ti","M","1968-09-02","Kudus","non_party","","","","","Q114681867","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0003","Ace Hasan Syadzily","M","1976-09-19","Pandeglang","party","Golkar","","","","Q93426301","wikidata","","Sundanese","idwiki","S3","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0004","Afriansyah Noor","M","1972-04-20","Jambi","not_coded","","","","","Q108889808","kpu2024;wikidata","Islam","Minangkabau","idwiki","S1","kpu2024 ballot titles, lower bound","married","","","none_declared","kpu2024","","","",""
-"P0005","Agum Gumelar","M","1945-12-17","Tasikmalaya","not_coded","","TNI","retired","flag","Q4694586","wikidata","","Sundanese","idwiki","","","","","","","","","","",""
-"P0006","Agus Andrianto","M","1967-02-16","Blora","not_coded","","Polri","retired","flag","Q25470136","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0007","Agus Gumiwang Kartasasmita","M","1969-01-03","Jakarta","party","Golkar","","","","Q12470931","wikidata","","Sundanese","idwiki","","","","","","","","","","",""
-"P0008","Agus Harimurti Yudhoyono","M","1978-08-10","Bandung","party","Demokrat","TNI","former","junior","Q7805962","wikidata","","","","","","","","","","","","","",""
-"P0009","Agus Jabo Priyono","","","Salaman","not_coded","","","","","Q112181217","wikidata","","","","","","","","","","","","","",""
-"P0010","Agus Subiyanto","M","1967-08-05","","not_coded","","TNI","active","","Q56399696","wikidata","","","","","","","","","","","","","",""
-"P0011","Agus Widodo","","1974-01-17","Bojonegoro","not_coded","","","","","Q140090135","wikidata","","","","","","","","","","","","","",""
-"P0012","Ahmad Ali","M","1969-05-16","Wosu","party","PSI","","","","Q96989072","kpu2024;wikidata","Islam","","","S1","kpu2024 ballot titles, lower bound","married","NILAM SARI LAWIRA","2","none_declared","kpu2024","","","",""
-"P0013","Ahmad Basarah","M","1968-06-16","Jakarta","party","PDIP","","","","Q18421250","kpu2024;wikidata","Islam","","","S3","kpu2024 ballot titles, lower bound","married","","","none_declared","kpu2024","","","",""
-"P0014","Ahmad Dofiri","","","","not_coded","","Polri","retired","flag","Q139587005","wikidata","","","","","","","","","","","","","",""
-"P0015","Ahmad Doli Kurnia","M","1971-07-26","Medan","party","Golkar","","","","Q49255433","wikidata","","Batak","idwiki","","","","","","","","","","",""
-"P0016","Ahmad Heryawan","M","1966-06-19","Sukabumi","party","PKS","","","","Q3745","kpu2024;wikidata","Islam","Sundanese","idwiki","S3","kpu2024 ballot titles, lower bound","married","Netty Prasetiyani","6","none_declared","kpu2024","","","",""
-"P0017","Ahmad Muzani","M","1968-07-15","Tegal","party","Gerindra","","","","Q18421363","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0018","Ahmad Ridha Sabana","M","1972-01-22","Banjarmasin","not_coded","","","","","Q63541663","wikidata","","Banjarese; Minangkabau","idwiki","","","","","","","","","","",""
-"P0019","Ahmad Sahroni","M","1977-08-08","Jakarta","party","NasDem","","","","Q16164725","kpu2024;wikidata","Islam","Minangkabau","idwiki","S2","kpu2024 ballot titles, lower bound","married","Feby belinda","2","none_declared","kpu2024","","","",""
-"P0020","Ahmad Syaikhu","M","1965-01-23","Cirebon","party","PKS","","","","Q12470972","kpu2024;wikidata","Islam","","","","","married","Lilik Wakhidah","6","none_declared","kpu2024","","","",""
-"P0021","Airlangga Hartarto","M","1962-10-01","Surabaya","party","Golkar","","","","Q12471140","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0022","Akbar Himawan Buchari","M","1987-11-25","Medan","not_coded","","","","","Q25465839","wikidata","","","","","","","","","","","","","",""
-"P0023","Al Muzzammil Yusuf","M","1965-06-06","Bandar Lampung","party","PKS","","","","Q17997939","kpu2024;wikidata","Islam","","","S3","kpu2024 ballot titles, lower bound","married","NURUL HIDAYATI K. UBAYA, S.Sos","6","none_declared","kpu2024","","","",""
-"P0024","Ali Masykur Musa","M","1962-09-12","Tulungagung","not_coded","","","","","Q12471487","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0025","Amran Sulaiman","M","1968-04-27","Bone","not_coded","","","","","Q19752868","wikidata","","Bugis","idwiki","","","","","","","","","","",""
-"P0026","Andi Mallarangeng","M","1963-03-14","Makassar","party","Demokrat","","","","Q11093005","wikidata","","","","","","","","","","","","","",""
-"P0027","Anies Baswedan","M","1969-05-07","Kuningan","not_coded","","","","","Q4263230","wikidata","","Arab Indonesian; Sundanese","idwiki","","","","","","","","","","",""
-"P0028","Anis Matta","M","1968-12-07","Bone","not_coded","","","","","Q12472171","wikidata","","Bugis","idwiki","","","","","","","","","","",""
-"P0029","Anwar Iskandar","","1950-04-24","Wringinputih","not_coded","","","","","Q129240125","wikidata","","","","","","","","","","","","","",""
-"P0030","Anwar Usman","M","1956-12-31","Bima","not_coded","","","","","Q24261467","wikidata","","","","","","","","","","","","","",""
-"P0031","Ari Dono Sukmanto","M","1961-12-23","Bogor","not_coded","","Polri","retired","flag","Q16167882","wikidata","","Javanese; Sundanese","idwiki","","","","","","","","","","",""
-"P0032","Arief Anshory Yusuf","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0033","Arief Rosyid Hasan","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0034","Arifatul Choiri Fauzi","F","1969-07-28","","not_coded","","","","","Q130586056","wikidata","","Madurese","idwiki","","","","","","","","","","",""
-"P0035","Ariyo Windutomo","","","","not_coded","","TNI","active","","","","","","","","","","","","","","","","",""
-"P0036","Arrmanatha Nasir","M","1971-12-30","Bangkok","not_coded","","","","","Q109752012","wikidata","","","","","","","","","","","","","",""
-"P0037","Bahlil Lahadalia","M","1976-08-07","Banda","party","Golkar","","","","Q65204620","wikidata","","","","","","","","","","","","","",""
-"P0038","Bambang Brodjonegoro","M","1966-10-03","Jakarta","not_coded","","","","","Q16169810","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0039","Bambang Soesatyo","M","1962-09-10","Jakarta","party","Golkar","","","","Q12473894","wikidata","","Javanese","idwiki","S3","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0040","Bambang Wuryanto","M","1956-07-17","Sukoharjo","party","PDIP","","","","Q16170072","kpu2024;wikidata","Islam","Javanese","idwiki","S2","kpu2024 ballot titles, lower bound","married","","","none_declared","kpu2024","","","",""
-"P0041","Basuki Tjahaja Purnama","M","1966-06-29","Manggar","party","PDIP","","","","Q3701615","wikidata","","Chinese Indonesian","idwiki","","","","","","","","","","",""
-"P0042","Benny K. Harman","M","1962-09-19","Pulau Flores","party","Demokrat","","","","Q16180049","wikidata","","","","S3","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0043","Bima Arya","M","1972-12-17","Bogor","party","PAN","","","","Q17410438","wikidata","","Sundanese","idwiki","","","","","","","","","","",""
-"P0044","Brian Yuliarto","M","1975-07-27","","not_coded","","","","","Q61805215","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0045","Budi Gunadi Sadikin","M","1964-05-06","","not_coded","","","","","Q85989277","wikidata","","","","","","","","","","","","","",""
-"P0046","Budi Gunawan","M","1959-12-11","Surakarta","not_coded","","Polri","retired","flag","Q12477379","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0047","Budi S. Tanuwibowo","M","1960-03-31","Tegal","not_coded","","","","","Q97523579","wikidata","","Chinese Indonesian","idwiki","","","","","","","","","","",""
-"P0048","Budi Santoso","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0049","Budisatrio Djiwandono","M","1981-09-25","Jakarta","party","Gerindra","","","","Q65209610","wikidata","","","","","","","","","","","","","",""
-"P0050","Chairul Tanjung","M","1962-06-18","Jakarta","not_coded","","","","","Q5068119","wikidata","","Minangkabau; Sundanese","enwiki","","","","","","","","","","",""
-"P0051","Chatib Basri","","","","not_coded","","","","","","","","Minangkabau","idwiki","","","","","","","","","","",""
-"P0052","Condro Kirono","M","1961-12-12","Surakarta","not_coded","","Polri","retired","flag","Q16172817","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0053","Cucun Ahmad Syamsurijal","M","1972-11-08","Bandung","party","PKB","","","","Q109564135","wikidata","","Sundanese","enwiki","","","","","","","","","","",""
-"P0054","Deddy Sitorus","M","1970-11-17","Pematang Siantar","party","PDIP","","","","Q93315880","kpu2024;wikidata","Catholic","Batak","idwiki","S2","kpu2024 ballot titles, lower bound","married","","","none_declared","kpu2024","","","",""
-"P0055","Dede Yusuf","M","1966-09-14","Jakarta","party","Demokrat","","","","Q5249748","wikidata","","Minangkabau; Sundanese","idwiki","S3","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0056","Dedi Mulyadi","M","1971-04-12","Subang","party","Gerindra","","","","Q16174166","kpu2024;wikidata","Islam","Sundanese","idwiki","S1","kpu2024 ballot titles, lower bound","married","","","none_declared","kpu2024","","","",""
-"P0057","Djarot Saiful Hidayat","M","1962-07-06","Magelang","party","PDIP","","","","Q19745886","kpu2024;wikidata","Islam","Javanese","idwiki","","","married","","","none_declared","kpu2024","","","",""
-"P0058","Dody Hanggodo","M","1966-02-07","Mojokerto","not_coded","","","","","Q130603031","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0059","Dominggus Oktavianus","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0060","Donny Ermawan Taufanto","M","1965-12-12","Surakarta","not_coded","","TNI","retired","flag","Q16175198","wikidata","","","","","","","","","","","","","",""
-"P0061","Dony Oskaria","M","1969-09-26","Tanjuang Alam","not_coded","","","","","Q56390037","wikidata","","Minangkabau","idwiki","","","","","","","","","","",""
-"P0062","Dudung Abdurachman","M","1965-11-19","Bandung","non_party","","TNI","retired","flag","Q107001110","wikidata","","Sundanese","idwiki","","","","","","","","","","",""
-"P0063","Dudy Purwagandhi","","","","not_coded","","","","","Q123909020","wikidata","","","","","","","","","","","","","",""
-"P0064","Eddy Soeparno","M","1965-05-06","Jakarta","party","PAN","","","","Q25460903","kpu2024;wikidata","Islam","","","","","married","SAWITRI HARDJOPRAKOSO","2","none_declared","kpu2024","","","",""
-"P0065","Edhie Baskoro Yudhoyono","M","1980-11-24","Bandung","party","Demokrat","","","","Q7806029","wikidata","","Javanese","idwiki","S3","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0066","Eko Hendro Purnomo","M","1970-12-30","Nganjuk","party","PAN","","","","Q11185376","kpu2024;wikidata","Islam","","","S1","kpu2024 ballot titles, lower bound","married","Viona Rosalina","3","none_declared","kpu2024","","","",""
-"P0067","Erick Thohir","M","1970-05-30","Jakarta","non_party","","","","","Q5388188","wikidata","","Chinese Indonesian","idwiki","","","","","","","","","","",""
-"P0068","Erwin Aksa","M","1975-12-07","Ujung Pandang","not_coded","","","","","Q65204733","wikidata","","Bugis","idwiki","","","","","","","","","","",""
-"P0069","Fadli Zon","M","1971-06-01","Jakarta","party","Gerindra","","","","Q12482698","kpu2024;wikidata","Islam","Minangkabau","idwiki","S3","kpu2024 ballot titles, lower bound","married","KATHARINE GRACE","2","none_declared","kpu2024","","","",""
-"P0070","Faisol Riza","M","1973-01-01","Probolinggo","party","PKB","","","","Q96986949","kpu2024;wikidata","Islam","","","","","unmarried","","","none_declared","kpu2024","","","",""
-"P0071","Fauzan","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0072","Ferry Juliantono","M","1967-07-27","Jakarta","party","Gerindra","","","","Q97306807","wikidata","","","","","","","","","","","","","",""
-"P0073","Firman Hidayat","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0074","GKR Hemas","F","1952-10-31","Jakarta Selatan","not_coded","","","","","Q7344813","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0075","Ganjar Pranowo","M","1968-10-28","Karanganyar","party","PDIP","","","","Q12483474","wikidata","","","","","","","","","","","","","",""
-"P0076","Grace Natalie","F","1982-07-04","Jakarta","party","PSI","","","","Q16178632","kpu2024;wikidata","Protestant","Chinese Indonesian; Malay","idwiki","S1","kpu2024 ballot titles, lower bound","married","","","none_declared","kpu2024","","","",""
-"P0077","Habiburokhman","M","1974-09-17","Metro","party","Gerindra","","","","Q85991292","kpu2024;wikidata","Islam","","","S3","kpu2024 ballot titles, lower bound","married","SARI MARIA JAYANI","0","none_declared","kpu2024","","","",""
-"P0078","Hanif Dhakiri","M","1972-06-06","Semarang","party","PKB","","","","Q17410774","kpu2024;wikidata","Islam","Javanese","idwiki","","","married","","0","none_declared","kpu2024","","","",""
-"P0079","Haris Rusly Moti","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0080","Hasan Nasbi","M","1979-10-11","Bukittinggi","not_coded","","","","","Q129466410","wikidata","","Minangkabau","idwiki","","","","","","","","","","",""
-"P0081","Hasanuddin Wahid","","","","party","PKB","","","","","","","Javanese","idwiki","","","","","","","","","","",""
-"P0082","Hashim Djojohadikusumo","M","","Jakarta","party","Gerindra","","","","Q12485398","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0083","Hasto Kristiyanto","M","1966-07-07","Yogyakarta","party","PDIP","","","","Q19751889","wikidata","","","","","","","","","","","","","",""
-"P0084","Hatta Rajasa","M","1953-09-18","Palembang","party","PAN","","","","Q4201732","wikidata","","Malay","idwiki+enwiki","","","","","","","","","","",""
-"P0085","Heriyanto Irawan","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0086","Herman Khaeron","M","1969-05-04","Kuningan","party","Demokrat","","","","Q96989554","wikidata","","","","S3","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0087","Hermawi Taslim","","","","party","NasDem","","","","Q118435011","wikidata","","Chinese Indonesian","idwiki","","","","","","","","","","",""
-"P0088","Hidayat Nur Wahid","M","1960-04-08","Klaten","party","PKS","","","","Q4115277","kpu2024;wikidata","Islam","Javanese","idwiki","S3","kpu2024 ballot titles, lower bound","married","dr. Diana Abbas Thalib, M.A.RS","7","none_declared","kpu2024","","","",""
-"P0089","Hinca Pandjaitan","M","1964-09-25","Asahan","party","Demokrat","","","","Q21527411","wikidata","","Batak","idwiki","S3","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0090","Ida Bagus Purwalaksana","M","","Cimahi","not_coded","","TNI","retired","flag","Q25468361","wikidata","","","","","","","","","","","","","",""
-"P0091","Ida Fauziyah","F","1969-07-17","Mojokerto","party","PKB","","","","Q17410595","kpu2024;wikidata","Islam","Javanese","idwiki","S3","kpu2024 ballot titles, lower bound","married","Taufiq R. Abdullah","2","none_declared","kpu2024","","","",""
-"P0092","Idrus Marham","M","1962-08-14","Sulawesi Selatan","party","Golkar","","","","Q16773556","wikidata","","","","","","","","","","","","","",""
-"P0093","Iftitah Sulaiman","","","","party","Demokrat","TNI","former","junior","","","","","","","","","","","","","","","",""
-"P0094","Ignasius Jonan","M","1963-06-21","Singapura","not_coded","","","","","Q16182287","wikidata","","Chinese Indonesian","idwiki","","","","","","","","","","",""
-"P0095","Irfan Yusuf","M","1962-06-24","","party","Gerindra","","","","Q109429659","kpu2024;wikidata","Islam","","","","","married","YULIE KARTIKA SARI","4","none_declared","kpu2024","","","",""
-"P0096","Irwan Fecho","","","","party","Demokrat","","","","","","","","","","","","","","","","","","",""
-"P0097","Jacky Manuputty","M","","","not_coded","","","","","Q132308120","wikidata","","","","","","","","","","","","","",""
-"P0098","Jazilul Fawaid","M","1971-12-05","Gresik","party","PKB","","","","Q96987319","kpu2024;wikidata","Islam","","","S3","kpu2024 ballot titles, lower bound","married","Chalimatus Sa’diyah","4","none_declared","kpu2024","","","",""
-"P0099","Jazuli Juwaini","M","1968-03-02","Bekasi","party","PKS","","","","Q16184425","kpu2024;wikidata","Islam","","","S3","kpu2024 ballot titles, lower bound","married","Hj. Latipah, MA","4","none_declared","kpu2024","","","",""
-"P0100","Jeffrie Geovanie","","","","party","PSI","","","","","","","Minangkabau","idwiki","","","","","","","","","","",""
-"P0101","Joko Widodo","M","1961-06-21","Surakarta","non_party","","","","","Q3318231","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0102","Jumhur Hidayat","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0103","Juri Ardiantoro","M","1973-04-06","Brebes","not_coded","","","","","Q26236895","wikidata","","","","","","","","","","","","","",""
-"P0104","Jusuf Hamka","","","","not_coded","","","","","","","","Chinese Indonesian","idwiki","","","","","","","","","","",""
-"P0105","Jusuf Wanandi","M","1937-12-15","Sumatera Barat","not_coded","","","","","Q6318658","wikidata","","Chinese Indonesian","idwiki","","","","","","","","","","",""
-"P0106","Kaesang Pangarep","M","1994-12-25","Surakarta","party","PSI","","","","Q18342896","wikidata","","Javanese","enwiki","","","","","","","","","","",""
-"P0107","Kahar Muzakir","M","1946-12-10","","party","Golkar","","","","Q56399548","wikidata","","","","S1","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0108","Khofifah Indar Parawansa","F","1965-05-19","Surabaya","not_coded","","","","","Q12491600","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0109","Komarudin Watubun","M","1968-02-09","Mun Kahar","party","PDIP","","","","Q96988312","kpu2024;wikidata","Islam","","","S2","kpu2024 ballot titles, lower bound","married","","","none_declared","kpu2024","","","",""
-"P0110","Lestari Moerdijat","F","1967-11-30","Surabaya","party","NasDem","","","","Q56400173","kpu2024;wikidata","Islam","Javanese","idwiki","","","married","Wawan Iriawan","4","none_declared","kpu2024","","","",""
-"P0111","Lodewijk F. Paulus","M","1957-07-27","Manado","not_coded","","TNI","retired","flag","Q16188298","wikidata","","Indo","enwiki","S1","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0112","Luhut Binsar Pandjaitan","M","1947-09-28","Toba","not_coded","","TNI","retired","flag","Q14917375","wikidata","","Batak","idwiki","","","","","","","","","","",""
-"P0113","M. Sarmuji","M","1974-11-12","Surabaya","party","Golkar","","","","Q20278470","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0114","Ma'ruf Amin","M","1943-03-11","Kresek","party","PKB","","","","Q12497177","wikidata","","Arab Indonesian; Javanese; Sundanese","idwiki","","","","","","","","","","",""
-"P0115","Mahfud MD","M","1957-05-13","Jawa Timur","not_coded","","","","","Q6892160","wikidata","","Madurese","idwiki","","","","","","","","","","",""
-"P0116","Mahfudz Siddiq","M","1966-09-25","Jakarta","not_coded","","","","","Q17411352","wikidata","","","","","","","","","","","","","",""
-"P0117","Maman Abdurrahman","M","","","party","Golkar","","","","","kpu2024","","","","S1","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0118","Margarito Kamis","M","1965","Gambesi","not_coded","","","","","Q19728884","wikidata","","","","","","","","","","","","","",""
-"P0119","Mari Elka Pangestu","F","1956-10-23","Jakarta","not_coded","","","","","Q3502322","wikidata","","Chinese Indonesian","idwiki","","","","","","","","","","",""
-"P0120","Maruarar Sirait","M","1969-12-23","Medan","party","Gerindra","","","","Q20278454","wikidata","","Batak","idwiki","","","","","","","","","","",""
-"P0121","Maruli Simanjuntak","M","1970-02-27","Bandung","not_coded","","TNI","active","","Q19728927","wikidata","","Batak","idwiki","","","","","","","","","","",""
-"P0122","Megawati Soekarnoputri","F","1947-01-23","Yogyakarta","party","PDIP","","","","Q76179","wikidata","","Javanese; Minangkabau; Balinese","idwiki+enwiki","","","","","","","","","","",""
-"P0123","Meutya Hafid","F","1978-05-03","Bandung","party","Golkar","","","","Q13095097","wikidata","","Bugis","idwiki","","","","","","","","","","",""
-"P0124","Mohamad Hatta","","","","party","Golkar","","","","","","","","","","","","","","","","","","",""
-"P0125","Muhadjir Effendy","M","1956-07-29","Madiun","not_coded","","","","","Q26236935","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0126","Muhaimin Iskandar","M","1966-09-24","Jombang","party","PKB","","","","Q12499327","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0127","Muhammad Ali","M","1967-04-09","","not_coded","","TNI","active","","Q61118792","wikidata","","","","","","","","","","","","","",""
-"P0128","Muhammad Herindra","M","1964-10-20","Magelang","not_coded","","TNI","retired","flag","Q16180843","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0129","Muhammad Kholid","M","1986-03-26","","party","PKS","","","","","kpu2024","Islam","","","S2","kpu2024 ballot titles, lower bound","married","Rizky Eka Puteri","2","none_declared","kpu2024","","","",""
-"P0130","Muhammad Qodari","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0131","Mukhtarudin","M","1964-09-06","Pangkalanbun","party","Golkar","","","","Q96988698","wikidata","","","","S1","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0132","Muliaman Hadad","M","1960-04-03","Bekasi","not_coded","","","","","Q17410798","wikidata","","","","","","","","","","","","","",""
-"P0133","Nasaruddin Umar","M","1959-06-23","Bone","not_coded","","","","","Q6966619","wikidata","","","","","","","","","","","","","",""
-"P0134","Natalius Pigai","M","1975-06-28","Paniai","not_coded","","","","","Q17410842","wikidata","","","","","","","","","","","","","",""
-"P0135","Noerhadi","","","","party","PKS","","","","","","","","","","","","","","","","","","",""
-"P0136","Nusron Wahid","M","1973-10-12","Kudus","party","Golkar","","","","Q17410884","wikidata","","Javanese","idwiki","S2","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0137","Olly Dondokambey","M","1961-11-18","Manado","party","PDIP","","","","Q25467525","wikidata","","Minahasan","idwiki","","","","","","","","","","",""
-"P0138","Pandu Sjahrir","M","1979-05-17","Boston","not_coded","","","","","Q97217964","wikidata","","Batak; Minangkabau","enwiki","","","","","","","","","","",""
-"P0139","Panel Barus","M","1979-07-01","Jakarta","not_coded","","","","","Q108893710","wikidata","","","","","","","","","","","","","",""
-"P0140","Philip K. Wijaya","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0141","Prabowo Subianto","M","1951-10-17","Jakarta","party","Gerindra","","","","Q2107268","wikidata","","Javanese; Minahasan","idwiki","","","","","","","","","","",""
-"P0142","Pramono Anung","M","1963-06-11","Kediri","party","PDIP","","","","Q12506342","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0143","Prasetyo Hadi","M","1979-10-28","Ngawi","party","Gerindra","","","","Q105969652","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0144","Pratikno","M","1962-02-13","Bojonegoro","non_party","","","","","Q12506406","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0145","Puan Maharani","F","1973-09-06","Jakarta","party","PDIP","","","","Q15646541","kpu2024;wikidata","Islam","Javanese; Minangkabau","idwiki","","","married","","","none_declared","kpu2024","","","",""
-"P0146","Purnomo Yusgiantoro","M","1951-06-16","Semarang","not_coded","","","","","Q4251398","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0147","Quraish Shihab","M","1944-02-16","Sidenreng Rappang","not_coded","","","","","Q55238732","wikidata","","Arab Indonesian; Indian Indonesian; Bugis","idwiki","","","","","","","","","","",""
-"P0148","Rachmat Gobel","M","1962-09-03","","party","NasDem","","","","","kpu2024","Islam","","","","","married","RETNO DAMAYANTI","2","none_declared","kpu2024","","","",""
-"P0149","Rahayu Saraswati","F","1986-01-27","Jakarta","party","Gerindra","","","","Q19731920","kpu2024;wikidata","Protestant","","","","","married","HARWENDRO ADITYO DEWANTO","3","none_declared","kpu2024","","","",""
-"P0150","Raja Juli Antoni","M","1977-07-13","Pekanbaru","party","PSI","","","","Q25464379","kpu2024;wikidata","Islam","Malay; Minangkabau","idwiki+enwiki","","","married","","","none_declared","kpu2024","","","",""
-"P0151","Rocky Gerung","M","1959-01-20","Manado","not_coded","","","","","Q60175835","wikidata","","Minahasan","enwiki","","","","","","","","","","",""
-"P0152","Rosan Roeslani","M","1968-12-31","","non_party","","","","","Q25464528","wikidata","","Betawi","idwiki","","","","","","","","","","",""
-"P0153","Rusdi Kirana","M","1963-08-17","Cirebon","party","PKB","","","","Q18421320","kpu2024;wikidata","Protestant","Chinese Indonesian","enwiki","S1","kpu2024 ballot titles, lower bound","married","Jong Njoek sien","3","none_declared","kpu2024","","","",""
-"P0154","ST Burhanuddin","M","1954-07-17","Cirebon","not_coded","","","","","Q83236699","wikidata","","Sundanese","idwiki","","","","","","","","","","",""
-"P0155","Saan Mustopa","M","1968-07-05","Karawang","party","NasDem","","","","Q25457680","kpu2024;wikidata","Islam","","","","","married","ILAH HOLILAH, S.Ag, M.Si","1","none_declared","kpu2024","","","",""
-"P0156","Said Abdullah","M","1962-10-22","Sumenep","party","PDIP","","","","Q17411193","kpu2024;wikidata","Islam","Madurese","idwiki","","","married","","","none_declared","kpu2024","","","",""
-"P0157","Said Aqil Siradj","M","","Cirebon","not_coded","","","","","Q110100707","wikidata","","","","","","","","","","","","","",""
-"P0158","Said Iqbal","M","","Jakarta","not_coded","","","","","Q85994079","wikidata","","Acehnese","enwiki","","","","","","","","","","",""
-"P0159","Saifullah Yusuf","M","1964-08-28","Pasuruan","not_coded","","","","","Q12511505","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0160","Sakti Wahyu Trenggono","M","1962","Semarang","not_coded","","","","","Q73854259","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0161","Saleh Daulay","M","1974-04-05","Sibuhuan","party","PAN","","","","Q12511628","kpu2024;wikidata","Islam","Batak","idwiki","S3","kpu2024 ballot titles, lower bound","married","","","none_declared","kpu2024","","","",""
-"P0162","Salim Segaf Al-Jufri","M","1954-07-17","Surakarta","not_coded","","","","","Q12511651","wikidata","","Arab Indonesian","idwiki","","","","","","","","","","",""
-"P0163","Sari Yuliati","F","1976-06-02","Jakarta","party","Golkar","","","","Q123245816","wikidata","","","","S2","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0164","Satrio Dimas Adityo","M","1983-05-25","Jakarta","party","Gerindra","","","","Q118976187","kpu2024;wikidata","Islam","","","S2","kpu2024 ballot titles, lower bound","married","ASTRID WULANDARI","2","none_declared","kpu2024","","","",""
-"P0165","Septian Hario Seto","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0166","Sinta Nuriyah Wahid","F","1948-03-08","Jombang","not_coded","","","","","Q4264061","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0167","Sjafrie Sjamsoeddin","M","1952-10-30","Makassar","non_party","","TNI","retired","flag","Q12515621","wikidata","","Bugis","idwiki","","","","","","","","","","",""
-"P0168","Soekarwo","M","1950-06-16","Madiun","not_coded","","","","","Q7553490","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0169","Sohibul Iman","M","1965-10-05","Tasikmalaya","party","PKS","","","","Q16182795","kpu2024;wikidata","Islam","","","S3","kpu2024 ballot titles, lower bound","married","Uswindraningsih Titus","5","none_declared","kpu2024","","","",""
-"P0170","Suahasil Nazara","M","1970-11-23","Jakarta","not_coded","","","","","Q77195503","wikidata","","Nias","idwiki","","","","","","","","","","",""
-"P0171","Sudaryono","","","","party","Gerindra","","","","","","","","","","","","","","","","","","",""
-"P0172","Sufmi Dasco Ahmad","M","1967-10-07","Bandung","party","Gerindra","","","","Q69711711","kpu2024;wikidata","Islam","","","","","married","RADEN EUIS HANDAYANI","1","none_declared","kpu2024","","","",""
-"P0173","Sugiono","M","1979-02-11","Takengon","party","Gerindra","TNI","former","junior","Q96987568","wikidata","","","","","","","","","","","","","",""
-"P0174","Sultan B. Najamudin","M","","","not_coded","","","","","Q123726381","wikidata","","","","","","","","","","","","","",""
-"P0175","Sultan Hamengku Buwono X","M","1946-04-02","Yogyakarta","not_coded","","","","","Q2669342","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0176","Supratman Andi Agtas","M","1969-09-28","Soppeng","party","Gerindra","","","","Q123290568","kpu2024;wikidata","Islam","","","S3","kpu2024 ballot titles, lower bound","married","IDAYANTI PANDAN, SH,. MKn","2","none_declared","kpu2024","","","",""
-"P0177","Surya Paloh","M","1951-07-16","Banda Aceh","party","NasDem","","","","Q7647367","wikidata","","","","","","","","","","","","","",""
-"P0178","Susilo Bambang Yudhoyono","M","1949-09-09","Pacitan","party","Demokrat","","","","Q57405","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0179","Suyudi Ario Seto","M","1973-07-14","Jakarta","not_coded","","Polri","active","","Q56399428","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0180","Syahganda Nainggolan","M","","","not_coded","","","","","Q109697569","wikidata","","","","","","","","","","","","","",""
-"P0181","Sylvester Matutina","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0182","Tahir","M","1952-03-26","Surabaya","not_coded","","","","","Q15647884","wikidata","","Chinese Indonesian","enwiki","","","","","","","","","","",""
-"P0183","Tamsil Linrung","M","1961-09-17","Mandalle","not_coded","","","","","Q17410667","wikidata","","","","","","","","","","","","","",""
-"P0184","Tandyo Budi Revita","M","","Surakarta","not_coded","","TNI","active","","Q25469692","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0185","Teddy Indra Wijaya","M","1989-04-14","Manado","not_coded","","TNI","active","","Q130421567","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0186","Terawan Agus Putranto","M","1964-08-05","Yogyakarta","not_coded","","TNI","retired","flag","Q72040942","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0187","Teuku Riefky Harsya","M","1972-06-28","Jakarta","party","Demokrat","","","","Q12521123","wikidata","","","","","","","","","","","","","",""
-"P0188","Thomas Djiwandono","M","1972-05-07","Jakarta","not_coded","","","","","Q65210174","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0189","Tito Karnavian","M","1964-10-26","Palembang","non_party","","Polri","retired","flag","Q12521705","wikidata","","Malay","enwiki","","","","","","","","","","",""
-"P0190","Tonny Harjono","M","1971-10-04","Jakarta","not_coded","","TNI","active","","Q28723998","wikidata","","","","","","","","","","","","","",""
-"P0191","Utje Gustaaf Patty","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0192","Viktor Laiskodat","M","1965-02-17","Kupang","party","NasDem","","","","Q18421325","wikidata","","","","S3","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0193","Viva Yoga Mauladi","M","1968-06-30","Lamongan","party","PAN","","","","Q97590815","kpu2024;wikidata","Islam","","","S2","kpu2024 ballot titles, lower bound","married","","","none_declared","kpu2024","","","",""
-"P0194","Wahyu Hadiningrat","M","1970-06-04","Bandung","not_coded","","Polri","active","","Q140698776","wikidata","","Sundanese","idwiki","","","","","","","","","","",""
-"P0195","Widiyanti Putri","F","1970","","not_coded","","","","","Q130603733","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0196","Wihaji","M","1976-08-22","Sragen","party","Golkar","","","","Q65213607","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0197","Willy Aditya","M","1978-04-12","Solok","party","NasDem","","","","Q12524548","kpu2024;wikidata","Islam","Minangkabau","idwiki","","","married","Yemmi Livenda","3","none_declared","kpu2024","","","",""
-"P0198","Wiranto","M","1947-04-04","Yogyakarta","not_coded","","TNI","retired","flag","Q731740","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0199","Wishnu Wardhana","","","","not_coded","","","","","","","","","","","","","","","","","","","",""
-"P0200","Yahya Cholil Staquf","","","","not_coded","","","","","Q109724697","wikidata","","Javanese","idwiki","","","","","","","","","","",""
-"P0201","Yandri Susanto","M","1974-11-07","Bengkulu Selatan","party","PAN","","","","Q96989494","kpu2024;wikidata","Islam","","","S1","kpu2024 ballot titles, lower bound","married","Ratu Rachmatu Zakiyah","3","none_declared","kpu2024","","","",""
-"P0202","Yasonna Laoly","M","1953-05-27","Tapanuli Tengah","party","PDIP","","","","Q12525045","kpu2024;wikidata","Protestant","Nias","idwiki","S3","kpu2024 ballot titles, lower bound","married","","","none_declared","kpu2024","","","",""
-"P0203","Yassierli","M","1976-04-22","Padang","not_coded","","","","","Q114450773","wikidata","","Minangkabau","idwiki+enwiki","","","","","","","","","","",""
-"P0204","Yohanna Murtika","F","1993-06-29","Jakarta","not_coded","","","","","Q109443613","wikidata","","","","S1","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0205","Yorrys Raweyai","M","1951-01-28","Serui Kota","not_coded","","","","","Q12525286","wikidata","","Chinese Indonesian","idwiki","","","","","","","","","","",""
-"P0206","Yovianes Mahar","M","1959-11-19","Jakarta","not_coded","","Polri","retired","flag","Q19944556","wikidata","","Minangkabau","idwiki","S1","kpu2024 ballot titles, lower bound","","","","","","","","",""
-"P0207","Yusril Ihza Mahendra","M","1956-02-05","Lalang","party","PBB","","","","Q8061915","wikidata","","Malay; Minangkabau","idwiki","","","","","","","","","","",""
-"P0208","Zulkifli Hasan","M","1962-05-17","Lampung","party","PAN","","","","Q4260406","wikidata","","Lampung","enwiki","","","","","","","","","","",""
-"P0209","Muzakir Manaf","M","1964-04-03","Seunuddon","not_coded","","","","","Q17410816","kompaspedia","","","","","","","","","","","","","",""
-"P0210","Bobby Nasution","M","1991-07-05","Medan","not_coded","","","","","Q54200649","icw;kompaspedia","","Batak","enwiki","","","","","","","","","","",""
-"P0211","Mahyeldi Ansharullah","M","1966-12-25","Bukittinggi","not_coded","","","","","Q17410383","icw;kompaspedia","","Minangkabau","idwiki","","","","","","","","","","",""
-"P0212","SF Hariyanto","M","1965-04-30","Pekanbaru","not_coded","","","","","Q124792512","icw","","","","","","","","","","","","","",""
-"P0213","Al Haris","M","1973-11-23","Sekancing","not_coded","","","","","Q25466192","kompaspedia","","","","","","","","","","","","","",""
-"P0214","Herman Deru","M","1967-11-17","Belitang","not_coded","","","","","Q16180910","icw;kompaspedia","","","","","","","","","","","","","",""
-"P0215","Helmi Hasan","M","1979-11-29","Lampung","not_coded","","","","","Q25466119","icw","","Lampung","enwiki","","","","","","","","","","",""
-"P0216","Rahmat Mirzani Djausal","M","1980-03-18","Kotabumi","not_coded","","","","","Q123874198","icw;kompaspedia","","","","","","","","","","","","","",""
-"P0217","Hidayat Arsani","M","1963-08-21","Pangkal Pinang","not_coded","","","","","Q16181271","icw","","Chinese Indonesian","idwiki","","","","","","","","","","",""
-"P0218","Ansar Ahmad","M","1964-04-10","Kijang Kota","not_coded","","","","","Q49250480","icw;kompaspedia","","","","","","","","","","","","","",""
-"P0219","Ahmad Luthfi","M","1966-11-22","Surabaya","not_coded","","Polri","retired","flag","Q85988523","icw;kompaspedia","","","","","","","","","","","","","",""
-"P0220","Andra Soni","M","1976-08-12","Payakumbuh","not_coded","","","","","Q109439643","icw;kompaspedia","","Minangkabau","idwiki","","","","","","","","","","",""
-"P0221","I Wayan Koster","M","1962-10-20","Singaraja","not_coded","","","","","Q54805204","icw;kompaspedia","","Balinese","enwiki","","","","","","","","","","",""
-"P0222","Lalu Muhamad Iqbal","M","1972-07-10","Praya","not_coded","","","","","Q65208371","icw;kompaspedia","","Sasak","idwiki","","","","","","","","","","",""
-"P0223","Emanuel Melkiades Laka Lena","M","1976-12-10","Kupang","not_coded","","","","","Q96988693","icw;kompaspedia","","","","","","","","","","","","","",""
-"P0224","Ria Norsan","M","1967-12-17","Singkawang","not_coded","","","","","Q25469767","icw;kompaspedia","","","","","","","","","","","","","",""
-"P0225","Agustiar Sabran","M","1972-08-17","Sampit","not_coded","","","","","Q28723899","icw","","Dayak","idwiki","","","","","","","","","","",""
-"P0226","Muhidin","M","1958-05-06","Binuang","not_coded","","","","","Q12499404","icw","","Banjarese","idwiki","","","","","","","","","","",""
-"P0227","Rudy Mas'ud","M","1981-12-07","Balikpapan","not_coded","","","","","Q96988704","icw","","","","","","","","","","","","","",""
-"P0228","Zainal Arifin Paliwang","M","1962-12-16","Makassar","not_coded","","Polri","retired","flag","Q107366847","kompaspedia","","","","","","","","","","","","","",""
-"P0229","Yulius Selvanus","M","1963-09","Tana Toraja","not_coded","","TNI","retired","flag","Q85995331","icw;kompaspedia","","Minahasan; Torajan","idwiki","","","","","","","","","","",""
-"P0230","Anwar Hafid","M","1969-08-14","Bungku Barat","not_coded","","","","","Q25468475","kompaspedia","","","","","","","","","","","","","",""
-"P0231","Andi Sudirman Sulaiman","M","1983-09-25","Bone","not_coded","","","","","Q49252587","icw;kompaspedia","","Bugis","idwiki","","","","","","","","","","",""
-"P0232","Andi Sumangerukka","M","1963-03-11","Makassar","not_coded","","TNI","retired","flag","Q85988747","icw;kompaspedia","","Bugis","idwiki","","","","","","","","","","",""
-"P0233","Gusnar Ismail","M","1959-12-12","Gorontalo","not_coded","","","","","Q12484981","icw;kompaspedia","","","","","","","","","","","","","",""
-"P0234","Suhardi Duka","M","1962-05-10","Mamuju","not_coded","","","","","Q85994583","icw;kompaspedia","","Mandarese","idwiki","","","","","","","","","","",""
-"P0235","Hendrik Lewerissa","M","1968-03-02","Ambon","not_coded","","","","","Q96987679","icw;kompaspedia","","","","","","","","","","","","","",""
-"P0236","Sherly Tjoanda","F","1982-08-08","Ambon","not_coded","","","","","Q131406018","kompaspedia","","Chinese Indonesian","idwiki","","","","","","","","","","",""
-"P0237","Mathius D. Fakhiri","M","1968-01-06","Manokwari","not_coded","","Polri","retired","flag","Q85992784","icw","","","","","","","","","","","","","",""
-"P0238","Dominggus Mandacan","M","1959-12-16","Manokwari","not_coded","","","","","Q16175168","icw","","Papuan","enwiki","","","","","","","","","","",""
-"P0239","Apolo Safanpo","M","1975-04-24","Asmat","not_coded","","","","","Q97374063","icw","","Papuan","enwiki","","","","","","","","","","",""
-"P0240","Meki Fritz Nawipa","M","1978-05-06","Enarotali","not_coded","","","","","Q132308234","icw","","","","","","","","","","","","","",""
-"P0241","John Tabo","M","1970-06-02","Wuragi, Tolikara","not_coded","","","","","Q109437450","icw","","","","","","","","","","","","","",""
-"P0242","Elisa Kambu","M","1964-03-12","Ayamaru","not_coded","","","","","Q112897422","icw","","","","","","","","","","","","","",""
-"P0243","Abdul Wahid","M","1980-11-21","Belaras","not_coded","","","","","Q120221128","icw;kompaspedia","","","","","","","","","","","","","",""
+person_id,name,gender,birth_date,birth_place,partisan_status,party_snapshot,security_service,security_status,security_rank_band,wikidata_qid,bio_src,religion,ethnicity,ethnicity_src,highest_degree,highest_degree_src,marital_status,spouse_name,n_children,legal_status,family_legal_src,degree_field,studied_abroad,pre_political_occupation,political_family
+P0001,Abcandra Akbar Supratman,M,10/1/98,Palu,non_party,,,,,Q123726148,wikidata,,,,,,,,,,,,,,
+P0002,Abdul Mu'ti,M,9/2/68,Kudus,non_party,,,,,Q114681867,wikidata,Islam,Javanese,idwiki,,,,,,,,,,,
+P0003,Ace Hasan Syadzily,M,9/19/76,Pandeglang,party,Golkar,,,,Q93426301,wikidata,,Sundanese,idwiki,S3,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0004,Afriansyah Noor,M,4/20/72,Jambi,party,Demokrat,,,,Q108889808,kpu2024;wikidata,Islam,Minangkabau,idwiki,S1,"kpu2024 ballot titles, lower bound",married,,,none_declared,kpu2024,,,,
+P0005,Agum Gumelar,M,12/17/45,Tasikmalaya,party,Golkar,TNI,retired,flag,Q4694586,wikidata,,Sundanese,idwiki,,,,,,,,,,,
+P0006,Agus Andrianto,M,2/16/67,Blora,non_party,,Polri,retired,flag,Q25470136,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0007,Agus Gumiwang Kartasasmita,M,1/3/69,Jakarta,party,Golkar,,,,Q12470931,wikidata,,Sundanese,idwiki,,,,,,,,,,,
+P0008,Agus Harimurti Yudhoyono,M,8/10/78,Bandung,party,Demokrat,TNI,former,junior,Q7805962,wikidata,,,,,,,,,,,,,,
+P0009,Agus Jabo Priyono,M,,Salaman,party,PRIMA,,,,Q112181217,wikidata,,,,,,,,,,,,,,
+P0010,Agus Subiyanto,M,8/5/67,,non_party,,TNI,active,,Q56399696,wikidata,,,,,,,,,,,,,,
+P0011,Agus Widodo,M,1/17/74,Bojonegoro,party,PKS,,,,Q140090135,wikidata,,,,,,,,,,,,,,
+P0012,Ahmad Ali,M,5/16/69,Wosu,party,PSI,,,,Q96989072,kpu2024;wikidata,Islam,,,S1,"kpu2024 ballot titles, lower bound",married,NILAM SARI LAWIRA,2,none_declared,kpu2024,,,,
+P0013,Ahmad Basarah,M,6/16/68,Jakarta,party,PDIP,,,,Q18421250,kpu2024;wikidata,Islam,,,S3,"kpu2024 ballot titles, lower bound",married,,,none_declared,kpu2024,,,,
+P0014,Ahmad Dofiri,M,6/4/67,,non_party,,Polri,retired,flag,Q139587005,wikidata,,,,,,,,,,,,,,
+P0015,Ahmad Doli Kurnia,M,7/26/71,Medan,party,Golkar,,,,Q49255433,wikidata,,Batak,idwiki,,,,,,,,,,,
+P0016,Ahmad Heryawan,M,6/19/66,Sukabumi,party,PKS,,,,Q3745,kpu2024;wikidata,Islam,Sundanese,idwiki,S3,"kpu2024 ballot titles, lower bound",married,Netty Prasetiyani,6,none_declared,kpu2024,,,,
+P0017,Ahmad Muzani,M,7/15/68,Tegal,party,Gerindra,,,,Q18421363,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0018,Ahmad Ridha Sabana,M,1/22/72,Banjarmasin,party,Garuda,,,,Q63541663,wikidata,,Banjarese; Minangkabau,idwiki,,,,,,,,,,,
+P0019,Ahmad Sahroni,M,8/8/77,Jakarta,party,NasDem,,,,Q16164725,kpu2024;wikidata,Islam,Minangkabau,idwiki,S2,"kpu2024 ballot titles, lower bound",married,Feby belinda,2,none_declared,kpu2024,,,,
+P0020,Ahmad Syaikhu,M,1/23/65,Cirebon,party,PKS,,,,Q12470972,kpu2024;wikidata,Islam,,,,,married,Lilik Wakhidah,6,none_declared,kpu2024,,,,
+P0021,Airlangga Hartarto,M,10/1/62,Surabaya,party,Golkar,,,,Q12471140,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0022,Akbar Himawan Buchari,M,11/25/87,Medan,party,Golkar,,,,Q25465839,wikidata,,,,,,,,,,,,,,
+P0023,Al Muzzammil Yusuf,M,6/6/65,Bandar Lampung,party,PKS,,,,Q17997939,kpu2024;wikidata,Islam,,,S3,"kpu2024 ballot titles, lower bound",married,"NURUL HIDAYATI K. UBAYA, S.Sos",6,none_declared,kpu2024,,,,
+P0024,Ali Masykur Musa,M,9/12/62,Tulungagung,party,PKB,,,,Q12471487,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0025,Amran Sulaiman,M,4/27/68,Bone,non_party,,,,,Q19752868,wikidata,,Bugis,idwiki,,,,,,,,,,,
+P0026,Andi Mallarangeng,M,3/14/63,Makassar,party,Demokrat,,,,Q11093005,wikidata,,,,,,,,,,,,,,
+P0027,Anies Baswedan,M,5/7/69,Kuningan,non_party,,,,,Q4263230,wikidata,,Arab Indonesian; Sundanese,idwiki,,,,,,,,,,,
+P0028,Anis Matta,M,12/7/68,Bone,party,Gelora,,,,Q12472171,wikidata,,Bugis,idwiki,,,,,,,,,,,
+P0029,Anwar Iskandar,M,4/24/50,Wringinputih,non_party,,,,,Q129240125,wikidata,,,,,,,,,,,,,,
+P0030,Anwar Usman,M,12/31/56,Bima,non_party,,,,,Q24261467,wikidata,,,,,,,,,,,,,,
+P0031,Ari Dono Sukmanto,M,12/23/61,Bogor,non_party,,Polri,retired,flag,Q16167882,wikidata,,Javanese; Sundanese,idwiki,,,,,,,,,,,
+P0032,Arief Anshory Yusuf,M,10/19/72,,non_party,,,,,,,,,,,,,,,,,,,,
+P0033,Arief Rosyid Hasan,M,,,party,Golkar,,,,,,,,,,,,,,,,,,,
+P0034,Arifatul Choiri Fauzi,F,7/28/69,,non_party,,,,,Q130586056,wikidata,,Madurese,idwiki,,,,,,,,,,,
+P0035,Ariyo Windutomo,M,1/27/74,,non_party,,TNI,active,,,,,,,,,,,,,,,,,
+P0036,Arrmanatha Nasir,M,12/30/71,Bangkok,non_party,,,,,Q109752012,wikidata,,,,,,,,,,,,,,
+P0037,Bahlil Lahadalia,M,8/7/76,Banda,party,Golkar,,,,Q65204620,wikidata,,,,,,,,,,,,,,
+P0038,Bambang Brodjonegoro,M,10/3/66,Jakarta,non_party,,,,,Q16169810,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0039,Bambang Soesatyo,M,9/10/62,Jakarta,party,Golkar,,,,Q12473894,wikidata,,Javanese,idwiki,S3,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0040,Bambang Wuryanto,M,7/17/56,Sukoharjo,party,PDIP,,,,Q16170072,kpu2024;wikidata,Islam,Javanese,idwiki,S2,"kpu2024 ballot titles, lower bound",married,,,none_declared,kpu2024,,,,
+P0041,Basuki Tjahaja Purnama,M,6/29/66,Manggar,party,PDIP,,,,Q3701615,wikidata,,Chinese Indonesian,idwiki,,,,,,,,,,,
+P0042,Benny K. Harman,M,9/19/62,Pulau Flores,party,Demokrat,,,,Q16180049,wikidata,,,,S3,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0043,Bima Arya,M,12/17/72,Bogor,party,PAN,,,,Q17410438,wikidata,,Sundanese,idwiki,,,,,,,,,,,
+P0044,Brian Yuliarto,M,7/27/75,,non_party,,,,,Q61805215,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0045,Budi Gunadi Sadikin,M,5/6/64,,non_party,,,,,Q85989277,wikidata,,,,,,,,,,,,,,
+P0046,Budi Gunawan,M,12/11/59,Surakarta,non_party,,Polri,retired,flag,Q12477379,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0047,Budi S. Tanuwibowo,M,3/31/60,Tegal,non_party,,,,,Q97523579,wikidata,,Chinese Indonesian,idwiki,,,,,,,,,,,
+P0048,Budi Santoso,M,,,party,PAN,,,,,,,,,,,,,,,,,,,
+P0049,Budisatrio Djiwandono,M,9/25/81,Jakarta,party,Gerindra,,,,Q65209610,wikidata,,,,,,,,,,,,,,
+P0050,Chairul Tanjung,M,6/18/62,Jakarta,non_party,,,,,Q5068119,wikidata,,Minangkabau; Sundanese,enwiki,,,,,,,,,,,
+P0051,Chatib Basri,M,8/22/65,,non_party,,,,,,,,Minangkabau,idwiki,,,,,,,,,,,
+P0052,Condro Kirono,M,12/12/61,Surakarta,non_party,,Polri,retired,flag,Q16172817,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0053,Cucun Ahmad Syamsurijal,M,11/8/72,Bandung,party,PKB,,,,Q109564135,wikidata,,Sundanese,enwiki,,,,,,,,,,,
+P0054,Deddy Sitorus,M,11/17/70,Pematang Siantar,party,PDIP,,,,Q93315880,kpu2024;wikidata,Catholic,Batak,idwiki,S2,"kpu2024 ballot titles, lower bound",married,,,none_declared,kpu2024,,,,
+P0055,Dede Yusuf,M,9/14/66,Jakarta,party,Demokrat,,,,Q5249748,wikidata,,Minangkabau; Sundanese,idwiki,S3,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0056,Dedi Mulyadi,M,4/12/71,Subang,party,Gerindra,,,,Q16174166,kpu2024;wikidata,Islam,Sundanese,idwiki,S1,"kpu2024 ballot titles, lower bound",married,,,none_declared,kpu2024,,,,
+P0057,Djarot Saiful Hidayat,M,7/6/62,Magelang,party,PDIP,,,,Q19745886,kpu2024;wikidata,Islam,Javanese,idwiki,,,married,,,none_declared,kpu2024,,,,
+P0058,Dody Hanggodo,M,2/7/66,Mojokerto,party,Demokrat,,,,Q130603031,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0059,Dominggus Oktavianus,M,,,party,PRIMA,,,,,,,,,,,,,,,,,,,
+P0060,Donny Ermawan Taufanto,M,12/12/65,Surakarta,non_party,,TNI,retired,flag,Q16175198,wikidata,,,,,,,,,,,,,,
+P0061,Dony Oskaria,M,9/26/69,Tanjuang Alam,non_party,,,,,Q56390037,wikidata,,Minangkabau,idwiki,,,,,,,,,,,
+P0062,Dudung Abdurachman,M,11/19/65,Bandung,non_party,,TNI,retired,flag,Q107001110,wikidata,,Sundanese,idwiki,,,,,,,,,,,
+P0063,Dudy Purwagandhi,M,9/23/70,,party,Demokrat,,,,Q123909020,wikidata,,,,,,,,,,,,,,
+P0064,Eddy Soeparno,M,5/6/65,Jakarta,party,PAN,,,,Q25460903,kpu2024;wikidata,Islam,,,,,married,SAWITRI HARDJOPRAKOSO,2,none_declared,kpu2024,,,,
+P0065,Edhie Baskoro Yudhoyono,M,11/24/80,Bandung,party,Demokrat,,,,Q7806029,wikidata,,Javanese,idwiki,S3,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0066,Eko Hendro Purnomo,M,12/30/70,Nganjuk,party,PAN,,,,Q11185376,kpu2024;wikidata,Islam,,,S1,"kpu2024 ballot titles, lower bound",married,Viona Rosalina,3,none_declared,kpu2024,,,,
+P0067,Erick Thohir,M,5/30/70,Jakarta,non_party,,,,,Q5388188,wikidata,,Chinese Indonesian,idwiki,,,,,,,,,,,
+P0068,Erwin Aksa,M,12/7/75,Ujung Pandang,party,Golkar,,,,Q65204733,wikidata,,Bugis,idwiki,,,,,,,,,,,
+P0069,Fadli Zon,M,6/1/71,Jakarta,party,Gerindra,,,,Q12482698,kpu2024;wikidata,Islam,Minangkabau,idwiki,S3,"kpu2024 ballot titles, lower bound",married,KATHARINE GRACE,2,none_declared,kpu2024,,,,
+P0070,Faisol Riza,M,1/1/73,Probolinggo,party,PKB,,,,Q96986949,kpu2024;wikidata,Islam,,,,,unmarried,,,none_declared,kpu2024,,,,
+P0071,Fauzan Rachmansyah,M,,,party,Berkarya,,,,,,,,,,,,,,,,,,,
+P0072,Ferry Juliantono,M,7/27/67,Jakarta,party,Gerindra,,,,Q97306807,wikidata,,,,,,,,,,,,,,
+P0073,Firman Hidayat,M,,,non_party,,,,,,,,,,,,,,,,,,,,
+P0074,GKR Hemas,F,10/31/52,Jakarta Selatan,non_party,,,,,Q7344813,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0075,Ganjar Pranowo,M,10/28/68,Karanganyar,party,PDIP,,,,Q12483474,wikidata,,,,,,,,,,,,,,
+P0076,Grace Natalie,F,7/4/82,Jakarta,party,PSI,,,,Q16178632,kpu2024;wikidata,Protestant,Chinese Indonesian; Malay,idwiki,S1,"kpu2024 ballot titles, lower bound",married,,,none_declared,kpu2024,,,,
+P0077,Habiburokhman,M,9/17/74,Metro,party,Gerindra,,,,Q85991292,kpu2024;wikidata,Islam,,,S3,"kpu2024 ballot titles, lower bound",married,SARI MARIA JAYANI,0,none_declared,kpu2024,,,,
+P0078,Hanif Dhakiri,M,6/6/72,Semarang,party,PKB,,,,Q17410774,kpu2024;wikidata,Islam,Javanese,idwiki,,,married,,0,none_declared,kpu2024,,,,
+P0079,Haris Rusly Moti,M,,,non_party,,,,,,,,,,,,,,,,,,,,
+P0080,Hasan Nasbi,M,10/11/79,Bukittinggi,non_party,,,,,Q129466410,wikidata,,Minangkabau,idwiki,,,,,,,,,,,
+P0081,Hasanuddin Wahid,M,,,party,PKB,,,,,,,Javanese,idwiki,,,,,,,,,,,
+P0082,Hashim Djojohadikusumo,M,,Jakarta,party,Gerindra,,,,Q12485398,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0083,Hasto Kristiyanto,M,7/7/66,Yogyakarta,party,PDIP,,,,Q19751889,wikidata,,,,,,,,,,,,,,
+P0084,Hatta Rajasa,M,9/18/53,Palembang,party,PAN,,,,Q4201732,wikidata,,Malay,idwiki+enwiki,,,,,,,,,,,
+P0085,Heriyanto Irawan,M,9/28/47,,non_party,,,,,,,,,,,,,,,,,,,,
+P0086,Herman Khaeron,M,5/4/69,Kuningan,party,Demokrat,,,,Q96989554,wikidata,,,,S3,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0087,Hermawi Taslim,M,,,party,NasDem,,,,Q118435011,wikidata,,Chinese Indonesian,idwiki,,,,,,,,,,,
+P0088,Hidayat Nur Wahid,M,4/8/60,Klaten,party,PKS,,,,Q4115277,kpu2024;wikidata,Islam,Javanese,idwiki,S3,"kpu2024 ballot titles, lower bound",married,"dr. Diana Abbas Thalib, M.A.RS",7,none_declared,kpu2024,,,,
+P0089,Hinca Pandjaitan,M,9/25/64,Asahan,party,Demokrat,,,,Q21527411,wikidata,,Batak,idwiki,S3,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0090,Ida Bagus Purwalaksana,M,2/5/64,Cimahi,non_party,,TNI,retired,flag,Q25468361,wikidata,,,,,,,,,,,,,,
+P0091,Ida Fauziyah,F,7/17/69,Mojokerto,party,PKB,,,,Q17410595,kpu2024;wikidata,Islam,Javanese,idwiki,S3,"kpu2024 ballot titles, lower bound",married,Taufiq R. Abdullah,2,none_declared,kpu2024,,,,
+P0092,Idrus Marham,M,8/14/62,Sulawesi Selatan,party,Golkar,,,,Q16773556,wikidata,,,,,,,,,,,,,,
+P0093,Iftitah Sulaiman,M,3/10/77,,party,Demokrat,TNI,former,junior,,,,,,,,,,,,,,,,
+P0094,Ignasius Jonan,M,6/21/63,Singapura,non_party,,,,,Q16182287,wikidata,,Chinese Indonesian,idwiki,,,,,,,,,,,
+P0095,Irfan Yusuf,M,6/24/62,,party,Gerindra,,,,Q109429659,kpu2024;wikidata,Islam,,,,,married,YULIE KARTIKA SARI,4,none_declared,kpu2024,,,,
+P0096,Irwan Fecho,M,4/30/79,,party,Demokrat,,,,,,,,,,,,,,,,,,,
+P0097,Jacky Manuputty,M,7/20/65,,non_party,,,,,Q132308120,wikidata,,,,,,,,,,,,,,
+P0098,Jazilul Fawaid,M,12/5/71,Gresik,party,PKB,,,,Q96987319,kpu2024;wikidata,Islam,,,S3,"kpu2024 ballot titles, lower bound",married,Chalimatus Sa’diyah,4,none_declared,kpu2024,,,,
+P0099,Jazuli Juwaini,M,3/2/68,Bekasi,party,PKS,,,,Q16184425,kpu2024;wikidata,Islam,,,S3,"kpu2024 ballot titles, lower bound",married,"Hj. Latipah, MA",4,none_declared,kpu2024,,,,
+P0100,Jeffrie Geovanie,M,,,party,PSI,,,,,,,Minangkabau,idwiki,,,,,,,,,,,
+P0101,Joko Widodo,M,6/21/61,Surakarta,non_party,,,,,Q3318231,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0102,Jumhur Hidayat,M,2/18/68,,non_party,,,,,,,,,,,,,,,,,,,,
+P0103,Juri Ardiantoro,M,4/6/73,Brebes,non_party,,,,,Q26236895,wikidata,,,,,,,,,,,,,,
+P0104,Jusuf Hamka,M,12/5/57,,non_party,,,,,,,,Chinese Indonesian,idwiki,,,,,,,,,,,
+P0105,Jusuf Wanandi,M,12/15/37,Sumatera Barat,non_party,,,,,Q6318658,wikidata,,Chinese Indonesian,idwiki,,,,,,,,,,,
+P0106,Kaesang Pangarep,M,12/25/94,Surakarta,party,PSI,,,,Q18342896,wikidata,,Javanese,enwiki,,,,,,,,,,,
+P0107,Kahar Muzakir,M,12/10/46,,party,Golkar,,,,Q56399548,wikidata,,,,S1,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0108,Khofifah Indar Parawansa,F,5/19/65,Surabaya,non_party,,,,,Q12491600,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0109,Komarudin Watubun,M,2/9/68,Mun Kahar,party,PDIP,,,,Q96988312,kpu2024;wikidata,Islam,,,S2,"kpu2024 ballot titles, lower bound",married,,,none_declared,kpu2024,,,,
+P0110,Lestari Moerdijat,F,11/30/67,Surabaya,party,NasDem,,,,Q56400173,kpu2024;wikidata,Islam,Javanese,idwiki,,,married,Wawan Iriawan,4,none_declared,kpu2024,,,,
+P0111,Lodewijk F. Paulus,M,7/27/57,Manado,party,Golkar,TNI,retired,flag,Q16188298,wikidata,,Indo,enwiki,S1,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0112,Luhut Binsar Pandjaitan,M,9/28/47,Toba,non_party,,TNI,retired,flag,Q14917375,wikidata,,Batak,idwiki,,,,,,,,,,,
+P0113,M. Sarmuji,M,11/12/74,Surabaya,party,Golkar,,,,Q20278470,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0114,Ma'ruf Amin,M,3/11/43,Kresek,party,PKB,,,,Q12497177,wikidata,,Arab Indonesian; Javanese; Sundanese,idwiki,,,,,,,,,,,
+P0115,Mahfud MD,M,5/13/57,Jawa Timur,non_party,,,,,Q6892160,wikidata,,Madurese,idwiki,,,,,,,,,,,
+P0116,Mahfudz Siddiq,M,9/25/66,Jakarta,party,PKS,,,,Q17411352,wikidata,,,,,,,,,,,,,,
+P0117,Maman Abdurrahman,M,,,party,Golkar,,,,,kpu2024,,,,S1,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0118,Margarito Kamis,M,5/18/05,Gambesi,non_party,,,,,Q19728884,wikidata,,,,,,,,,,,,,,
+P0119,Mari Elka Pangestu,F,10/23/56,Jakarta,non_party,,,,,Q3502322,wikidata,,Chinese Indonesian,idwiki,,,,,,,,,,,
+P0120,Maruarar Sirait,M,12/23/69,Medan,party,Gerindra,,,,Q20278454,wikidata,,Batak,idwiki,,,,,,,,,,,
+P0121,Maruli Simanjuntak,M,2/27/70,Bandung,non_party,,TNI,active,,Q19728927,wikidata,,Batak,idwiki,,,,,,,,,,,
+P0122,Megawati Soekarnoputri,F,1/23/47,Yogyakarta,party,PDIP,,,,Q76179,wikidata,,Javanese; Minangkabau; Balinese,idwiki+enwiki,,,,,,,,,,,
+P0123,Meutya Hafid,F,5/3/78,Bandung,party,Golkar,,,,Q13095097,wikidata,,Bugis,idwiki,,,,,,,,,,,
+P0124,Mohamad Hatta,M,,,party,Golkar,,,,,,,,,,,,,,,,,,,
+P0125,Muhadjir Effendy,M,7/29/56,Madiun,non_party,,,,,Q26236935,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0126,Muhaimin Iskandar,M,9/24/66,Jombang,party,PKB,,,,Q12499327,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0127,Muhammad Ali,M,4/9/67,,non_party,,TNI,active,,Q61118792,wikidata,,,,,,,,,,,,,,
+P0128,Muhammad Herindra,M,10/20/64,Magelang,non_party,,TNI,retired,flag,Q16180843,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0129,Muhammad Kholid,M,3/26/86,,party,PKS,,,,,kpu2024,Islam,,,S2,"kpu2024 ballot titles, lower bound",married,Rizky Eka Puteri,2,none_declared,kpu2024,,,,
+P0130,Muhammad Qodari,M,10/15/73,,non_party,,,,,,,,,,,,,,,,,,,,
+P0131,Mukhtarudin,M,9/6/64,Pangkalanbun,party,Golkar,,,,Q96988698,wikidata,,,,S1,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0132,Muliaman Hadad,M,4/3/60,Bekasi,non_party,,,,,Q17410798,wikidata,,,,,,,,,,,,,,
+P0133,Nasaruddin Umar,M,6/23/59,Bone,non_party,,,,,Q6966619,wikidata,,,,,,,,,,,,,,
+P0134,Natalius Pigai,M,6/28/75,Paniai,non_party,,,,,Q17410842,wikidata,,,,,,,,,,,,,,
+P0135,Noerhadi,M,,,party,PKS,,,,,,,,,,,,,,,,,,,
+P0136,Nusron Wahid,M,10/12/73,Kudus,party,Golkar,,,,Q17410884,wikidata,,Javanese,idwiki,S2,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0137,Olly Dondokambey,M,11/18/61,Manado,party,PDIP,,,,Q25467525,wikidata,,Minahasan,idwiki,,,,,,,,,,,
+P0138,Pandu Sjahrir,M,5/17/79,Boston,non_party,,,,,Q97217964,wikidata,,Batak; Minangkabau,enwiki,,,,,,,,,,,
+P0139,Panel Barus,M,7/1/79,Jakarta,non_party,,,,,Q108893710,wikidata,,,,,,,,,,,,,,
+P0140,Philip K. Wijaya,M,,,non_party,,,,,,,,,,,,,,,,,,,,
+P0141,Prabowo Subianto,M,10/17/51,Jakarta,party,Gerindra,,,,Q2107268,wikidata,,Javanese; Minahasan,idwiki,,,,,,,,,,,
+P0142,Pramono Anung,M,6/11/63,Kediri,party,PDIP,,,,Q12506342,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0143,Prasetyo Hadi,M,10/28/79,Ngawi,party,Gerindra,,,,Q105969652,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0144,Pratikno,M,2/13/62,Bojonegoro,non_party,,,,,Q12506406,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0145,Puan Maharani,F,9/6/73,Jakarta,party,PDIP,,,,Q15646541,kpu2024;wikidata,Islam,Javanese; Minangkabau,idwiki,,,married,,,none_declared,kpu2024,,,,
+P0146,Purnomo Yusgiantoro,M,6/16/51,Semarang,non_party,,,,,Q4251398,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0147,Quraish Shihab,M,2/16/44,Sidenreng Rappang,non_party,,,,,Q55238732,wikidata,,Arab Indonesian; Indian Indonesian; Bugis,idwiki,,,,,,,,,,,
+P0148,Rachmat Gobel,M,9/3/62,,party,NasDem,,,,,kpu2024,Islam,,,,,married,RETNO DAMAYANTI,2,none_declared,kpu2024,,,,
+P0149,Rahayu Saraswati,F,1/27/86,Jakarta,party,Gerindra,,,,Q19731920,kpu2024;wikidata,Protestant,,,,,married,HARWENDRO ADITYO DEWANTO,3,none_declared,kpu2024,,,,
+P0150,Raja Juli Antoni,M,7/13/77,Pekanbaru,party,PSI,,,,Q25464379,kpu2024;wikidata,Islam,Malay; Minangkabau,idwiki+enwiki,,,married,,,none_declared,kpu2024,,,,
+P0151,Rocky Gerung,M,1/20/59,Manado,non_party,,,,,Q60175835,wikidata,,Minahasan,enwiki,,,,,,,,,,,
+P0152,Rosan Roeslani,M,12/31/68,,non_party,,,,,Q25464528,wikidata,,Betawi,idwiki,,,,,,,,,,,
+P0153,Rusdi Kirana,M,8/17/63,Cirebon,party,PKB,,,,Q18421320,kpu2024;wikidata,Protestant,Chinese Indonesian,enwiki,S1,"kpu2024 ballot titles, lower bound",married,Jong Njoek sien,3,none_declared,kpu2024,,,,
+P0154,ST Burhanuddin,M,7/17/54,Cirebon,non_party,,,,,Q83236699,wikidata,,Sundanese,idwiki,,,,,,,,,,,
+P0155,Saan Mustopa,M,7/5/68,Karawang,party,NasDem,,,,Q25457680,kpu2024;wikidata,Islam,,,,,married,"ILAH HOLILAH, S.Ag, M.Si",1,none_declared,kpu2024,,,,
+P0156,Said Abdullah,M,10/22/62,Sumenep,party,PDIP,,,,Q17411193,kpu2024;wikidata,Islam,Madurese,idwiki,,,married,,,none_declared,kpu2024,,,,
+P0157,Said Aqil Siradj,M,7/3/53,Cirebon,non_party,,,,,Q110100707,wikidata,,,,,,,,,,,,,,
+P0158,Said Iqbal,M,,Jakarta,party,Labour,,,,Q85994079,wikidata,,Acehnese,enwiki,,,,,,,,,,,
+P0159,Saifullah Yusuf,M,8/28/64,Pasuruan,party,PKB,,,,Q12511505,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0160,Sakti Wahyu Trenggono,M,1962,Semarang,party,PAN,,,,Q73854259,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0161,Saleh Daulay,M,4/5/74,Sibuhuan,party,PAN,,,,Q12511628,kpu2024;wikidata,Islam,Batak,idwiki,S3,"kpu2024 ballot titles, lower bound",married,,,none_declared,kpu2024,,,,
+P0162,Salim Segaf Al-Jufri,M,7/17/54,Surakarta,party,PKS,,,,Q12511651,wikidata,,Arab Indonesian,idwiki,,,,,,,,,,,
+P0163,Sari Yuliati,F,6/2/76,Jakarta,party,Golkar,,,,Q123245816,wikidata,,,,S2,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0164,Satrio Dimas Adityo,M,5/25/83,Jakarta,party,Gerindra,,,,Q118976187,kpu2024;wikidata,Islam,,,S2,"kpu2024 ballot titles, lower bound",married,ASTRID WULANDARI,2,none_declared,kpu2024,,,,
+P0165,Septian Hario Seto,M,9/17/84,,non_party,,,,,,,,,,,,,,,,,,,,
+P0166,Sinta Nuriyah Wahid,F,3/8/48,Jombang,non_party,,,,,Q4264061,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0167,Sjafrie Sjamsoeddin,M,10/30/52,Makassar,non_party,,TNI,retired,flag,Q12515621,wikidata,,Bugis,idwiki,,,,,,,,,,,
+P0168,Soekarwo,M,6/16/50,Madiun,party,Golkar,,,,Q7553490,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0169,Sohibul Iman,M,10/5/65,Tasikmalaya,party,PKS,,,,Q16182795,kpu2024;wikidata,Islam,,,S3,"kpu2024 ballot titles, lower bound",married,Uswindraningsih Titus,5,none_declared,kpu2024,,,,
+P0170,Suahasil Nazara,M,11/23/70,Jakarta,non_party,,,,,Q77195503,wikidata,,Nias,idwiki,,,,,,,,,,,
+P0171,Sudaryono,M,,,party,Gerindra,,,,,,,,,,,,,,,,,,,
+P0172,Sufmi Dasco Ahmad,M,10/7/67,Bandung,party,Gerindra,,,,Q69711711,kpu2024;wikidata,Islam,,,,,married,RADEN EUIS HANDAYANI,1,none_declared,kpu2024,,,,
+P0173,Sugiono,M,2/11/79,Takengon,party,Gerindra,TNI,former,junior,Q96987568,wikidata,,,,,,,,,,,,,,
+P0174,Sultan B. Najamudin,M,5/11/79,Anggut,non_party,,,,,Q123726381,wikidata,,,,,,,,,,,,,,
+P0175,Sultan Hamengku Buwono X,M,4/2/46,Yogyakarta,non_party,,,,,Q2669342,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0176,Supratman Andi Agtas,M,9/28/69,Soppeng,party,Gerindra,,,,Q123290568,kpu2024;wikidata,Islam,,,S3,"kpu2024 ballot titles, lower bound",married,"IDAYANTI PANDAN, SH,. MKn",2,none_declared,kpu2024,,,,
+P0177,Surya Paloh,M,7/16/51,Banda Aceh,party,NasDem,,,,Q7647367,wikidata,,,,,,,,,,,,,,
+P0178,Susilo Bambang Yudhoyono,M,9/9/49,Pacitan,party,Demokrat,,,,Q57405,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0179,Suyudi Ario Seto,M,7/14/73,Jakarta,non_party,,Polri,active,,Q56399428,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0180,Syahganda Nainggolan,M,11/27/65,Medan,non_party,,,,,Q109697569,wikidata,,,,,,,,,,,,,,
+P0181,Sylvester Matutina,M,6/19/71,Ende,non_party,,,,,,,,,,,,,,,,,,,,
+P0182,Dato' Sri Tahir,M,3/26/52,Surabaya,non_party,,,,,Q15647884,wikidata,,Chinese Indonesian,enwiki,,,,,,,,,,,
+P0183,Tamsil Linrung,M,9/17/61,Mandalle,non_party,,,,,Q17410667,wikidata,,,,,,,,,,,,,,
+P0184,Tandyo Budi Revita,M,2/21/69,Surakarta,non_party,,TNI,active,,Q25469692,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0185,Teddy Indra Wijaya,M,4/14/89,Manado,non_party,,TNI,active,,Q130421567,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0186,Terawan Agus Putranto,M,8/5/64,Yogyakarta,non_party,,TNI,retired,flag,Q72040942,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0187,Teuku Riefky Harsya,M,6/28/72,Jakarta,party,Demokrat,,,,Q12521123,wikidata,,,,,,,,,,,,,,
+P0188,Thomas Djiwandono,M,5/7/72,Jakarta,non_party,,,,,Q65210174,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0189,Tito Karnavian,M,10/26/64,Palembang,non_party,,Polri,retired,flag,Q12521705,wikidata,,Malay,enwiki,,,,,,,,,,,
+P0190,Tonny Harjono,M,10/4/71,Jakarta,non_party,,TNI,active,,Q28723998,wikidata,,,,,,,,,,,,,,
+P0191,Utje Gustaaf Patty,M,,,non_party,,,,,,,,,,,,,,,,,,,,
+P0192,Viktor Laiskodat,M,2/17/65,Kupang,party,NasDem,,,,Q18421325,wikidata,,,,S3,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0193,Viva Yoga Mauladi,M,6/30/68,Lamongan,party,PAN,,,,Q97590815,kpu2024;wikidata,Islam,,,S2,"kpu2024 ballot titles, lower bound",married,,,none_declared,kpu2024,,,,
+P0194,Wahyu Hadiningrat,M,6/4/70,Bandung,non_party,,Polri,active,,Q140698776,wikidata,,Sundanese,idwiki,,,,,,,,,,,
+P0195,Widiyanti Putri,F,5/23/05,,non_party,,,,,Q130603733,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0196,Wihaji,M,8/22/76,Sragen,party,Golkar,,,,Q65213607,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0197,Willy Aditya,M,4/12/78,Solok,party,NasDem,,,,Q12524548,kpu2024;wikidata,Islam,Minangkabau,idwiki,,,married,Yemmi Livenda,3,none_declared,kpu2024,,,,
+P0198,Wiranto,M,4/4/47,Yogyakarta,party,PRI,TNI,retired,flag,Q731740,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0199,Wishnu Wardhana,M,,,party,Demokrat,,,,,,,,,,,,,,,,,,,
+P0200,Yahya Cholil Staquf,M,,,non_party,,,,,Q109724697,wikidata,,Javanese,idwiki,,,,,,,,,,,
+P0201,Yandri Susanto,M,11/7/74,Bengkulu Selatan,party,PAN,,,,Q96989494,kpu2024;wikidata,Islam,,,S1,"kpu2024 ballot titles, lower bound",married,Ratu Rachmatu Zakiyah,3,none_declared,kpu2024,,,,
+P0202,Yasonna Laoly,M,5/27/53,Tapanuli Tengah,party,PDIP,,,,Q12525045,kpu2024;wikidata,Protestant,Nias,idwiki,S3,"kpu2024 ballot titles, lower bound",married,,,none_declared,kpu2024,,,,
+P0203,Yassierli,M,4/22/76,Padang,non_party,,,,,Q114450773,wikidata,,Minangkabau,idwiki+enwiki,,,,,,,,,,,
+P0204,Yohanna Murtika,F,6/29/93,Jakarta,party,Garuda,,,,Q109443613,wikidata,,,,S1,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0205,Yorrys Raweyai,M,1/28/51,Serui Kota,non_party,,,,,Q12525286,wikidata,,Chinese Indonesian,idwiki,,,,,,,,,,,
+P0206,Yovianes Mahar,M,11/19/59,Jakarta,party,Golkar,Polri,retired,flag,Q19944556,wikidata,,Minangkabau,idwiki,S1,"kpu2024 ballot titles, lower bound",,,,,,,,,
+P0207,Yusril Ihza Mahendra,M,2/5/56,Lalang,party,PBB,,,,Q8061915,wikidata,,Malay; Minangkabau,idwiki,,,,,,,,,,,
+P0208,Zulkifli Hasan,M,5/17/62,Lampung,party,PAN,,,,Q4260406,wikidata,,Lampung,enwiki,,,,,,,,,,,
+P0209,Muzakir Manaf,M,4/3/64,Seunuddon,party,Aceh,,,,Q17410816,kompaspedia,,,,,,,,,,,,,,
+P0210,Bobby Nasution,M,7/5/91,Medan,party,Gerindra,,,,Q54200649,icw;kompaspedia,,Batak,enwiki,,,,,,,,,,,
+P0211,Mahyeldi Ansharullah,M,12/25/66,Bukittinggi,party,PKS,,,,Q17410383,icw;kompaspedia,,Minangkabau,idwiki,,,,,,,,,,,
+P0212,SF Hariyanto,M,4/30/65,Pekanbaru,party,Golkar,,,,Q124792512,icw,,,,,,,,,,,,,,
+P0213,Al Haris,M,11/23/73,Sekancing,party,PAN,,,,Q25466192,kompaspedia,,,,,,,,,,,,,,
+P0214,Herman Deru,M,11/17/67,Belitang,party,NasDem,,,,Q16180910,icw;kompaspedia,,,,,,,,,,,,,,
+P0215,Helmi Hasan,M,11/29/79,Lampung,party,PAN,,,,Q25466119,icw,,Lampung,enwiki,,,,,,,,,,,
+P0216,Rahmat Mirzani Djausal,M,3/18/80,Kotabumi,party,Gerindra,,,,Q123874198,icw;kompaspedia,,,,,,,,,,,,,,
+P0217,Hidayat Arsani,M,8/21/63,Pangkal Pinang,party,Golkar,,,,Q16181271,icw,,Chinese Indonesian,idwiki,,,,,,,,,,,
+P0218,Ansar Ahmad,M,4/10/64,Kijang Kota,party,Golkar,,,,Q49250480,icw;kompaspedia,,,,,,,,,,,,,,
+P0219,Ahmad Luthfi,M,11/22/66,Surabaya,party,Gerindra,Polri,retired,flag,Q85988523,icw;kompaspedia,,,,,,,,,,,,,,
+P0220,Andra Soni,M,8/12/76,Payakumbuh,party,Gerindra,,,,Q109439643,icw;kompaspedia,,Minangkabau,idwiki,,,,,,,,,,,
+P0221,I Wayan Koster,M,10/20/62,Singaraja,party,PDIP,,,,Q54805204,icw;kompaspedia,,Balinese,enwiki,,,,,,,,,,,
+P0222,Lalu Muhamad Iqbal,M,7/10/72,Praya,party,Gerindra,,,,Q65208371,icw;kompaspedia,,Sasak,idwiki,,,,,,,,,,,
+P0223,Emanuel Melkiades Laka Lena,M,12/10/76,Kupang,party,Golkar,,,,Q96988693,icw;kompaspedia,,,,,,,,,,,,,,
+P0224,Ria Norsan,M,12/17/67,Singkawang,party,Gerindra,,,,Q25469767,icw;kompaspedia,,,,,,,,,,,,,,
+P0225,Agustiar Sabran,M,8/17/72,Sampit,party,Gerindra,,,,Q28723899,icw,,Dayak,idwiki,,,,,,,,,,,
+P0226,Muhidin,M,5/6/58,Binuang,party,PAN,,,,Q12499404,icw,,Banjarese,idwiki,,,,,,,,,,,
+P0227,Rudy Mas'ud,M,12/7/81,Balikpapan,party,Golkar,,,,Q96988704,icw,,,,,,,,,,,,,,
+P0228,Zainal Arifin Paliwang,M,12/16/62,Makassar,party,Gerindra,Polri,retired,flag,Q107366847,kompaspedia,,,,,,,,,,,,,,
+P0229,Yulius Selvanus,M,1963-09,Tana Toraja,party,Gerindra,TNI,retired,flag,Q85995331,icw;kompaspedia,,Minahasan; Torajan,idwiki,,,,,,,,,,,
+P0230,Anwar Hafid,M,8/14/69,Bungku Barat,party,Demokrat,,,,Q25468475,kompaspedia,,,,,,,,,,,,,,
+P0231,Andi Sudirman Sulaiman,M,9/25/83,Bone,non_party,,,,,Q49252587,icw;kompaspedia,,Bugis,idwiki,,,,,,,,,,,
+P0232,Andi Sumangerukka,M,3/11/63,Makassar,party,Gerindra,TNI,retired,flag,Q85988747,icw;kompaspedia,,Bugis,idwiki,,,,,,,,,,,
+P0233,Gusnar Ismail,M,12/12/59,Gorontalo,party,Demokrat,,,,Q12484981,icw;kompaspedia,,,,,,,,,,,,,,
+P0234,Suhardi Duka,M,5/10/62,Mamuju,party,Demokrat,,,,Q85994583,icw;kompaspedia,,Mandarese,idwiki,,,,,,,,,,,
+P0235,Hendrik Lewerissa,M,3/2/68,Ambon,party,Gerindra,,,,Q96987679,icw;kompaspedia,,,,,,,,,,,,,,
+P0236,Sherly Tjoanda,F,8/8/82,Ambon,non_party,,,,,Q131406018,kompaspedia,,Chinese Indonesian,idwiki,,,,,,,,,,,
+P0237,Mathius D. Fakhiri,M,1/6/68,Manokwari,party,Golkar,Polri,retired,flag,Q85992784,icw,,,,,,,,,,,,,,
+P0238,Dominggus Mandacan,M,12/16/59,Manokwari,party,NasDem,,,,Q16175168,icw,,Papuan,enwiki,,,,,,,,,,,
+P0239,Apolo Safanpo,M,4/24/75,Asmat,party,Golkar,,,,Q97374063,icw,,Papuan,enwiki,,,,,,,,,,,
+P0240,Meki Fritz Nawipa,M,5/6/78,Enarotali,party,PDIP,,,,Q132308234,icw,,,,,,,,,,,,,,
+P0241,John Tabo,M,6/2/70,"Wuragi, Tolikara",party,Golkar,,,,Q109437450,icw,,,,,,,,,,,,,,
+P0242,Elisa Kambu,M,3/12/64,Ayamaru,party,Gerindra,,,,Q112897422,icw,,,,,,,,,,,,,,
+P0243,Abdul Wahid,M,11/21/80,Belaras,party,PKB,,,,Q120221128,icw;kompaspedia,,,,,,,,,,,,,,
